@@ -1,0 +1,126 @@
+{
+    "code": 1,
+    "msg": "success",
+    "data": {
+        "option": [
+            {
+                "key": "companyid",
+                "boption": "品牌",
+                "bvalue": [
+                    {
+                        "specific": "全部",
+                        "compamyID": "0",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "谷歌",
+                        "compamyID": "1786",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "苹果",
+                        "compamyID": "116",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "Mozilla",
+                        "compamyID": "1805",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "微软",
+                        "compamyID": "630",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "三星",
+                        "compamyID": "829",
+                        "typeindex": "0"
+                    }
+                ]
+            },
+            {
+                "key": "sortname",
+                "boption": "分类",
+                "bvalue": [
+                    {
+                        "specific": "浏览器市场占率全球榜",
+                        "sortname": "custom",
+                        "ischoice": "0",
+                        "typeindex": "1",
+                        "boption": "选项",
+                        "bvalue": []
+                    }
+                ]
+            },
+            {
+                "key": "year",
+                "boption": "年",
+                "bvalue": [
+                    {
+                        "specific": "全部",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "2023",
+                        "typeindex": "1"
+                    },
+                ]
+            }
+        ],
+        "value": [
+            {
+                "index": "1",
+                "product": "Chrome浏览器",
+                "value": "63.55",
+                "bfb": "100",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173153550.png"
+            },
+            {
+                "index": "2",
+                "product": "Safari浏览器",
+                "value": "19.95",
+                "bfb": "31.39",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/191655762.png"
+            },
+            {
+                "index": "3",
+                "product": "Edge浏览器",
+                "value": "5.14",
+                "bfb": "8.09",
+                "logo": "https://drivers.mydrivers.com/images/company/20230308/173018275.jpg"
+            },
+            {
+                "index": "4",
+                "product": "Opera浏览器",
+                "value": "2.98",
+                "bfb": "4.69",
+                "logo": "https://drivers.mydrivers.com/images/company/20210414/193300847.png"
+            },
+            {
+                "index": "5",
+                "product": "Firefox浏览器",
+                "value": "2.79",
+                "bfb": "4.39",
+                "logo": "https://drivers.mydrivers.com/images/company/20210414/192446173.jpg"
+            },
+            {
+                "index": "6",
+                "product": "三星浏览器",
+                "value": "2.38",
+                "bfb": "3.75",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/194524589.png"
+            }
+        ],
+        "urllist": [
+            {
+                "url": ""
+            }
+        ],
+        "explain": "提供浏览器市场占有率数据供用户参考。|||每月更新一次。|||数据来自Statcounter网页流量分析。",
+        "unit": "％",
+        "surl": "网络",
+        "utime": "2023-08-07",
+        "strtime": "2023年7月 浏览器市场占率全球榜"
+    }
+}

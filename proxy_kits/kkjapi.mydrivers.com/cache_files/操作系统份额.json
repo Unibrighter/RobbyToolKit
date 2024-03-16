@@ -1,0 +1,84 @@
+{
+    "category": "软件",
+    "rankingList": [
+        {
+            "index": "1",
+            "product": "Android系统",
+            "value": "40.12",
+            "bfb": "100",
+            "logo": "https://drivers.mydrivers.com/images/company/20200417/173153550.png"
+        },
+        {
+            "index": "2",
+            "product": "Windows系统",
+            "value": "29.34",
+            "bfb": "73.13",
+            "logo": "https://drivers.mydrivers.com/images/company/20230308/173018275.jpg"
+        },
+        {
+            "index": "3",
+            "product": "iOS系统",
+            "value": "16.78",
+            "bfb": "41.82",
+            "logo": "https://drivers.mydrivers.com/images/company/20200411/191655762.png"
+        },
+        {
+            "index": "4",
+            "product": "macOS系统",
+            "value": "8.62",
+            "bfb": "21.49",
+            "logo": "https://drivers.mydrivers.com/images/company/20200411/191655762.png"
+        },
+        {
+            "index": "5",
+            "product": "Others",
+            "value": "1.64",
+            "bfb": "4.09",
+            "logo": "https://drivers.mydrivers.com/images/company/20210414/181913678.jpg"
+        },
+        {
+            "index": "6",
+            "product": "Chrome OS",
+            "value": "1.36",
+            "bfb": "3.39",
+            "logo": "https://drivers.mydrivers.com/images/company/20200417/173153550.png"
+        },
+        {
+            "index": "7",
+            "product": "Linux系统",
+            "value": "1.33",
+            "bfb": "3.32",
+            "logo": "https://drivers.mydrivers.com/images/company/20210414/184756633.png"
+        },
+        {
+            "index": "8",
+            "product": "Xbox OS",
+            "value": "0.5",
+            "bfb": "1.25",
+            "logo": "https://drivers.mydrivers.com/images/company/20230308/173018275.jpg"
+        },
+        {
+            "index": "9",
+            "product": "Samsung OneUI",
+            "value": "0.21",
+            "bfb": "0.52",
+            "logo": "https://drivers.mydrivers.com/images/company/20200411/194524589.png"
+        },
+        {
+            "index": "10",
+            "product": "KaiOS",
+            "value": "0.08",
+            "bfb": "0.2",
+            "logo": "https://drivers.mydrivers.com/images/company/20210414/192446173.jpg"
+        },
+        {
+            "index": "11",
+            "product": "Playstation OS",
+            "value": "0.02",
+            "bfb": "0.05",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        }
+    ],
+    "updateTime": "2023-08-07",
+    "infoNote": "提供各个平台操作系统的市场占有率数据供用户参考。|||每月更新一次。|||数据来自Statcounter网页流量分析。"
+}

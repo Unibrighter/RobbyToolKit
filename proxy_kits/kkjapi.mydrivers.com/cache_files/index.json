@@ -1,0 +1,386 @@
+{
+    "outSide": [
+        {
+            "bname": "电脑",
+            "sname": [
+                {
+                    "name": "桌面级显卡",
+                    "longname": "桌面级显卡性能排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 73
+                },
+                {
+                    "name": "桌面级CPU",
+                    "longname": "桌面级CPU排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 76
+                },
+                {
+                    "name": "桌面显卡功耗",
+                    "longname": "桌面显卡功耗排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 61
+                },
+                {
+                    "name": "桌面核显性能",
+                    "longname": "桌面核显性能排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 129
+                },
+                {
+                    "name": "桌面CPU功耗",
+                    "longname": "桌面处理器功耗排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 62
+                },
+                {
+                    "name": "笔记本性能",
+                    "longname": "笔记本性能排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 141
+                },
+                {
+                    "name": "笔记本CPU",
+                    "longname": "笔记本CPU排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 77
+                },
+                {
+                    "name": "笔记本移动显卡",
+                    "longname": "笔记本移动显卡排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 75
+                },
+                {
+                    "name": "笔记本核显性能",
+                    "longname": "笔记本核显性能排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 101
+                },
+                {
+                    "name": "笔记本重量",
+                    "longname": "笔记本重量",
+                    "type": "custom",
+                    "url": "",
+                    "id": 127
+                },
+                {
+                    "name": "笔记本续航",
+                    "longname": "笔记本续航排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 128
+                },
+                {
+                    "name": "云计算市场份额",
+                    "longname": "云计算市场份额排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 58
+                },
+                {
+                    "name": "全球超算性能",
+                    "longname": "全球超级计算机性能排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 72
+                }
+            ]
+        },
+        {
+            "bname": "手机",
+            "sname": [
+                {
+                    "name": "折叠屏手机",
+                    "longname": "折叠屏手机排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 106
+                },
+                {
+                    "name": "手机拍照性能",
+                    "longname": "手机拍照性能排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 79
+                },
+                {
+                    "name": "手机视频性能",
+                    "longname": "手机视频拍摄性能排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 81
+                },
+                {
+                    "name": "手机CPU性能",
+                    "longname": "手机CPU性能排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 74
+                },
+                {
+                    "name": "DXO手机影像综合性能",
+                    "longname": "手机影像综合性能排行榜DxO",
+                    "type": "custom",
+                    "url": "",
+                    "id": 82
+                },
+                {
+                    "name": "手机变焦性能",
+                    "longname": "手机变焦性能排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 80
+                },
+                {
+                    "name": "手机AI算力",
+                    "longname": "手机AI算力排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 7
+                },
+                {
+                    "name": "手机电池",
+                    "longname": "手机电池排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 4
+                },
+                {
+                    "name": "手机屏幕",
+                    "longname": "手机屏幕排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 6
+                },
+                {
+                    "name": "手机充电速度",
+                    "longname": "手机充电速度排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 11
+                },
+                {
+                    "name": "手机音频",
+                    "longname": "手机音频综合排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 21
+                },
+                {
+                    "name": "手机重量",
+                    "longname": "手机重量排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 49
+                },
+                {
+                    "name": "手机CMOS",
+                    "longname": "手机CMOS排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 57
+                },
+                {
+                    "name": "手机厚度",
+                    "longname": "手机厚度排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 63
+                },
+                {
+                    "name": "手机品牌销量",
+                    "longname": "手机品牌销量排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 13
+                },
+                {
+                    "name": "安兔兔手机性能",
+                    "longname": "安兔兔手机性能排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 95
+                },
+                {
+                    "name": "鲁大师手机性能",
+                    "longname": "鲁大师手机性能排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 97
+                }
+            ]
+        },
+        {
+            "bname": "数码",
+            "sname": [
+                {
+                    "name": "数码相机拍照",
+                    "longname": "数码相机DxO排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 69
+                },
+                {
+                    "name": "数码相机重量",
+                    "longname": "数码相机重量排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 102
+                },
+                {
+                    "name": "数码相机大小",
+                    "longname": "数码相机尺寸排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 105
+                },
+                {
+                    "name": "数码相机续航",
+                    "longname": "数码相机续航排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 122
+                },
+                {
+                    "name": "数码相机镜头尺寸",
+                    "longname": "数码相机镜头尺寸排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 131
+                },
+                {
+                    "name": "数码相机镜头重量",
+                    "longname": "数码相机镜头重量排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 132
+                },
+                {
+                    "name": "航拍无人机排行",
+                    "longname": "航拍无人机排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 130
+                },
+                {
+                    "name": "智能手表排行",
+                    "longname": "智能手表排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 64
+                }
+            ]
+        },
+        {
+            "bname": "汽车",
+            "sname": [
+                {
+                    "name": "电动汽车续航里程",
+                    "longname": "电动汽车综合续航里程排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 78
+                },
+                {
+                    "name": "电动汽车电池容量",
+                    "longname": "电动汽车电池容量排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 48
+                },
+                {
+                    "name": "电动汽车实测续航",
+                    "longname": "电动汽车续航实测排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 134
+                },
+                {
+                    "name": "新能源汽车品牌销量榜",
+                    "longname": "新能源汽车品牌销量排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 142
+                },
+                {
+                    "name": "新能源汽车车型销量榜",
+                    "longname": "新能源汽车车型销量排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 9
+                },
+                {
+                    "name": "汽车市场品牌销量榜",
+                    "longname": "汽车市场品牌销量排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 8
+                },
+                {
+                    "name": "汽车市场车型销量榜",
+                    "longname": "汽车市场车型销量排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 52
+                },
+                {
+                    "name": "汽车整备质量榜",
+                    "longname": "汽车整备质量排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 140
+                },
+                {
+                    "name": "中国城市汽车保有量",
+                    "longname": "中国城市汽车保有量",
+                    "type": "custom",
+                    "url": "",
+                    "id": 10
+                },
+                {
+                    "name": "汽车保值率榜",
+                    "longname": "汽车保值率排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 22
+                },
+                {
+                    "name": "年度汽车品牌综合榜",
+                    "longname": "年度汽车品牌综合排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 143
+                }
+            ]
+        },
+        {
+            "bname": "软件",
+            "sname": [
+                {
+                    "name": "浏览器份额",
+                    "longname": "浏览器份额排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 15
+                },
+                {
+                    "name": "操作系统份额",
+                    "longname": "操作系统份额排行榜",
+                    "type": "custom",
+                    "url": "",
+                    "id": 17
+                }
+            ]
+        }
+    ]
+}

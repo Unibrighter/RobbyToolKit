@@ -1,0 +1,665 @@
+{
+    "category": "电脑",
+    "rankingList": [
+        {
+            "index": "1",
+            "product": "NVIDIA GeForce RTX 4090笔记本显卡",
+            "value": "2186",
+            "bfb": "100",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "2",
+            "product": "NVIDIA GeForce RTX 4080笔记本显卡",
+            "value": "1885",
+            "bfb": "86.23",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "3",
+            "product": "AMD Radeon RX 6850M XT笔记本显卡",
+            "value": "1553",
+            "bfb": "71.04",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "4",
+            "product": "Intel Arc A770M显卡",
+            "value": "1512",
+            "bfb": "69.17",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "5",
+            "product": "NVIDIA GeForce RTX 3080 Ti笔记本显卡",
+            "value": "1497",
+            "bfb": "68.48",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "6",
+            "product": "AMD Radeon RX 6800M笔记本显卡",
+            "value": "1381",
+            "bfb": "63.17",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "7",
+            "product": "NVIDIA GeForce RTX 4070笔记本显卡",
+            "value": "1368",
+            "bfb": "62.58",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "8",
+            "product": "NVIDIA GeForce RTX 3080笔记本显卡",
+            "value": "1352",
+            "bfb": "61.85",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "9",
+            "product": "NVIDIA GeForce RTX 3070 Ti笔记本显卡",
+            "value": "1343",
+            "bfb": "61.44",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "10",
+            "product": "AMD Radeon RX 6800S笔记本显卡",
+            "value": "1312",
+            "bfb": "60.02",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "11",
+            "product": "NVIDIA GeForce RTX 3070笔记本显卡",
+            "value": "1281",
+            "bfb": "58.6",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "12",
+            "product": "NVIDIA GeForce RTX 2080 Super笔记本显卡",
+            "value": "1273",
+            "bfb": "58.23",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "13",
+            "product": "NVIDIA GeForce RTX 4060笔记本显卡",
+            "value": "1262",
+            "bfb": "57.73",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "14",
+            "product": "NVIDIA GeForce RTX 2080笔记本显卡",
+            "value": "1253",
+            "bfb": "57.32",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "15",
+            "product": "NVIDIA GeForce RTX 2070 Super笔记本显卡",
+            "value": "1122",
+            "bfb": "51.33",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "16",
+            "product": "AMD Radeon RX 6700M笔记本显卡",
+            "value": "1109",
+            "bfb": "50.73",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "17",
+            "product": "NVIDIA GeForce RTX 2080 Super Max-Q笔记本显卡",
+            "value": "1071",
+            "bfb": "48.99",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "18",
+            "product": "NVIDIA GeForce RTX 3060笔记本显卡",
+            "value": "1045",
+            "bfb": "47.8",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "19",
+            "product": "NVIDIA GeForce RTX 2080 Max-Q笔记本显卡",
+            "value": "1014",
+            "bfb": "46.39",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "20",
+            "product": "NVIDIA GeForce GTX 1080笔记本显卡",
+            "value": "1000",
+            "bfb": "45.75",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "21",
+            "product": "NVIDIA GeForce RTX 2070笔记本显卡",
+            "value": "990",
+            "bfb": "45.29",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "22",
+            "product": "AMD Radeon RX 6700S笔记本显卡",
+            "value": "981",
+            "bfb": "44.88",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "23",
+            "product": "AMD Radeon RX 6600M笔记本显卡",
+            "value": "972",
+            "bfb": "44.46",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "24",
+            "product": "NVIDIA GeForce RTX 2070 Super Max-Q笔记本显卡",
+            "value": "906",
+            "bfb": "41.45",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "25",
+            "product": "NVIDIA GeForce GTX 1080 Max-Q笔记本显卡",
+            "value": "872",
+            "bfb": "39.89",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "26",
+            "product": "NVIDIA GeForce RTX 2070 Max-Q笔记本显卡",
+            "value": "858",
+            "bfb": "39.25",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "27",
+            "product": "NVIDIA GeForce GTX 1070笔记本显卡",
+            "value": "814",
+            "bfb": "37.24",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "28",
+            "product": "NVIDIA GeForce RTX 2060笔记本显卡",
+            "value": "806",
+            "bfb": "36.87",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "29",
+            "product": "NVIDIA GeForce GTX 1660 Ti笔记本显卡",
+            "value": "756",
+            "bfb": "34.58",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "30",
+            "product": "AMD Radeon RX 5600M笔记本显卡",
+            "value": "737",
+            "bfb": "33.71",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "31",
+            "product": "NVIDIA GeForce GTX 1070 Max-Q笔记本显卡",
+            "value": "717",
+            "bfb": "32.8",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "32",
+            "product": "NVIDIA GeForce RTX 2060 Max-Q笔记本显卡",
+            "value": "694",
+            "bfb": "31.75",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "33",
+            "product": "NVIDIA GeForce RTX 3050 Ti笔记本显卡",
+            "value": "689",
+            "bfb": "31.52",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "34",
+            "product": "NVIDIA GeForce GTX 1660 Ti Max-Q笔记本显卡",
+            "value": "639",
+            "bfb": "29.23",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "35",
+            "product": "NVIDIA GeForce GTX 1060笔记本显卡",
+            "value": "624",
+            "bfb": "28.55",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "36",
+            "product": "NVIDIA GeForce RTX 3050笔记本显卡",
+            "value": "594",
+            "bfb": "27.17",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "37",
+            "product": "NVIDIA GeForce GTX 1060 Max-Q笔记本显卡",
+            "value": "517",
+            "bfb": "23.65",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "38",
+            "product": "AMD Radeon RX 5500M笔记本显卡",
+            "value": "516",
+            "bfb": "23.6",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "39",
+            "product": "AMD Radeon RX 580X",
+            "value": "516",
+            "bfb": "23.6",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "40",
+            "product": "AMD Radeon RX 470显卡",
+            "value": "500",
+            "bfb": "22.87",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "41",
+            "product": "AMD Radeon RX 5300M笔记本显卡",
+            "value": "481",
+            "bfb": "22",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "42",
+            "product": "NVIDIA GeForce GTX 980M笔记本显卡",
+            "value": "469",
+            "bfb": "21.45",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "43",
+            "product": "NVIDIA GeForce GTX 1650笔记本显卡",
+            "value": "464",
+            "bfb": "21.23",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "44",
+            "product": "AMD Radeon RX Vega M GH",
+            "value": "455",
+            "bfb": "20.81",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "45",
+            "product": "AMD Radeon Pro Vega 20",
+            "value": "430",
+            "bfb": "19.67",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "46",
+            "product": "NVIDIA GeForce GTX 1650 Ti笔记本显卡",
+            "value": "402",
+            "bfb": "18.39",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "47",
+            "product": "NVIDIA GeForce GTX 1650 Max-Q笔记本显卡",
+            "value": "391",
+            "bfb": "17.89",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "48",
+            "product": "NVIDIA GeForce GTX 970M笔记本显卡",
+            "value": "388",
+            "bfb": "17.75",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "49",
+            "product": "AMD Radeon Pro Vega 16",
+            "value": "374",
+            "bfb": "17.11",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "50",
+            "product": "NVIDIA GeForce GTX 1650 Ti Max-Q笔记本显卡",
+            "value": "325",
+            "bfb": "14.87",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "51",
+            "product": "NVIDIA GeForce GTX 1050 Ti Max-Q笔记本显卡",
+            "value": "319",
+            "bfb": "14.59",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "52",
+            "product": "AMD Radeon RX Vega M GL",
+            "value": "316",
+            "bfb": "14.46",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "53",
+            "product": "NVIDIA GeForce GTX 1050 Ti笔记本显卡",
+            "value": "291",
+            "bfb": "13.31",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "54",
+            "product": "NVIDIA GeForce GTX 1050笔记本显卡",
+            "value": "290",
+            "bfb": "13.27",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "55",
+            "product": "NVIDIA GeForce GTX 1050 Max-Q笔记本显卡",
+            "value": "282",
+            "bfb": "12.9",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "56",
+            "product": "AMD Radeon RX 560X显卡",
+            "value": "277",
+            "bfb": "12.67",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "57",
+            "product": "NVIDIA GeForce GTX 965M笔记本显卡",
+            "value": "274",
+            "bfb": "12.53",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "58",
+            "product": "AMD Radeon RX 560笔记本显卡",
+            "value": "268",
+            "bfb": "12.26",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "59",
+            "product": "NVIDIA GeForce MX450笔记本显卡",
+            "value": "237",
+            "bfb": "10.84",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "60",
+            "product": "Intel Iris Xe",
+            "value": "214",
+            "bfb": "9.79",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "61",
+            "product": "NVIDIA GeForce GTX 960M笔记本显卡",
+            "value": "213",
+            "bfb": "9.74",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "62",
+            "product": "NVIDIA GeForce MX350笔记本显卡",
+            "value": "199",
+            "bfb": "9.1",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "63",
+            "product": "NVIDIA GeForce MX330笔记本显卡",
+            "value": "181",
+            "bfb": "8.28",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "64",
+            "product": "AMD Radeon RX 550笔记本显卡",
+            "value": "178",
+            "bfb": "8.14",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "65",
+            "product": "NVIDIA GeForce MX250笔记本显卡",
+            "value": "175",
+            "bfb": "8.01",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "66",
+            "product": "NVIDIA GeForce GTX 950M笔记本显卡",
+            "value": "166",
+            "bfb": "7.59",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "67",
+            "product": "NVIDIA GeForce MX150笔记本显卡",
+            "value": "163",
+            "bfb": "7.46",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "68",
+            "product": "AMD Radeon RX 550X笔记本显卡",
+            "value": "152",
+            "bfb": "6.95",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "69",
+            "product": "AMD Radeon RX 640笔记本显卡",
+            "value": "150",
+            "bfb": "6.86",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "70",
+            "product": "AMD Radeon RX 540",
+            "value": "147",
+            "bfb": "6.72",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "71",
+            "product": "NVIDIA GeForce 945M笔记本显卡",
+            "value": "143",
+            "bfb": "6.54",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "72",
+            "product": "AMD Radeon RX Vega 6(锐龙4000)",
+            "value": "129",
+            "bfb": "5.9",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "73",
+            "product": "Intel Iris Plus G7",
+            "value": "126",
+            "bfb": "5.76",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "74",
+            "product": "AMD Radeon 540X笔记本显卡",
+            "value": "118",
+            "bfb": "5.4",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "75",
+            "product": "NVIDIA GeForce MX230笔记本显卡",
+            "value": "116",
+            "bfb": "5.31",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "76",
+            "product": "NVIDIA GeForce MX130笔记本显卡",
+            "value": "110",
+            "bfb": "5.03",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "77",
+            "product": "Intel Iris Plus 655",
+            "value": "102",
+            "bfb": "4.67",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "78",
+            "product": "Intel Iris Plus G4",
+            "value": "96",
+            "bfb": "4.39",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "79",
+            "product": "NVIDIA GeForce 940MX笔记本显卡",
+            "value": "91",
+            "bfb": "4.16",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "80",
+            "product": "NVIDIA GeForce MX110笔记本显卡",
+            "value": "85",
+            "bfb": "3.89",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "81",
+            "product": "Intel Iris Plus 645",
+            "value": "84",
+            "bfb": "3.84",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "82",
+            "product": "NVIDIA GeForce 920MX笔记本显卡",
+            "value": "73",
+            "bfb": "3.34",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "83",
+            "product": "Intel Iris Plus G1",
+            "value": "72",
+            "bfb": "3.29",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "84",
+            "product": "NVIDIA GeForce 930MX笔记本显卡",
+            "value": "72",
+            "bfb": "3.29",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "85",
+            "product": "NVIDIA GeForce 940M笔记本显卡",
+            "value": "72",
+            "bfb": "3.29",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "86",
+            "product": "AMD Radeon 530",
+            "value": "67",
+            "bfb": "3.06",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "87",
+            "product": "Intel UHD 630",
+            "value": "67",
+            "bfb": "3.06",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "88",
+            "product": "NVIDIA GeForce 930M笔记本显卡",
+            "value": "67",
+            "bfb": "3.06",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "89",
+            "product": "Intel UHD 620",
+            "value": "62",
+            "bfb": "2.84",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "90",
+            "product": "NVIDIA GeForce 920M笔记本显卡",
+            "value": "57",
+            "bfb": "2.61",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "91",
+            "product": "NVIDIA GeForce 910M笔记本显卡",
+            "value": "54",
+            "bfb": "2.47",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "92",
+            "product": "AMD Radeon 520",
+            "value": "53",
+            "bfb": "2.42",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "93",
+            "product": "Intel UHD 617",
+            "value": "48",
+            "bfb": "2.2",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "94",
+            "product": "Intel UHD 615",
+            "value": "42",
+            "bfb": "1.92",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        }
+    ],
+    "updateTime": "2023-06-05",
+    "infoNote": "1、基于NoteBookChek网站汇总的网友提交数据，平均计算不同笔记本CPU的性能，进行高低排行。|||2、受制于笔记本散热设计、性能调校，同一款显卡在不同笔记本中的性能释放往往有很大不同，这里取有5+组数据的取平均值，仅供高低排行，不代表具体机型。|||3、新型号发布，NoteBookCheck有足够数据后，即时更新。"
+}

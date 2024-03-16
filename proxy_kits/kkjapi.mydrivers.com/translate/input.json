@@ -1,0 +1,637 @@
+{
+    "category": "Camera",
+    "rankingList": [
+        {
+            "index": "1",
+            "product": "Hasselblad X1D 50C",
+            "value": "102",
+            "bfb": "100",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/170140893.png"
+        },
+        {
+            "index": "2",
+            "product": "Pentax 645Z",
+            "value": "101",
+            "bfb": "99.02",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/170732980.jpg"
+        },
+        {
+            "index": "3",
+            "product": "Leica M11",
+            "value": "100",
+            "bfb": "98.04",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/171219748.jpg"
+        },
+        {
+            "index": "4",
+            "product": "Panasonic DC-S1R",
+            "value": "100",
+            "bfb": "98.04",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/171729432.jpg"
+        },
+        {
+            "index": "5",
+            "product": "Nikon D850",
+            "value": "100",
+            "bfb": "98.04",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "6",
+            "product": "Sony A7R3",
+            "value": "100",
+            "bfb": "98.04",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "7",
+            "product": "Nikon Z7 II",
+            "value": "100",
+            "bfb": "98.04",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "8",
+            "product": "Sony A7R4",
+            "value": "99",
+            "bfb": "97.06",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "9",
+            "product": "Nikon Z7",
+            "value": "99",
+            "bfb": "97.06",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "10",
+            "product": "Sony A1",
+            "value": "98",
+            "bfb": "96.08",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "11",
+            "product": "Nikon Z 9",
+            "value": "98",
+            "bfb": "96.08",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "12",
+            "product": "Sony A7R2",
+            "value": "98",
+            "bfb": "96.08",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "13",
+            "product": "Nikon D810",
+            "value": "97",
+            "bfb": "95.1",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "14",
+            "product": "Sony A7M4",
+            "value": "97",
+            "bfb": "95.1",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "15",
+            "product": "Sony RX1RM2",
+            "value": "97",
+            "bfb": "95.1",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "16",
+            "product": "Leica Q2",
+            "value": "96",
+            "bfb": "94.12",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/171219748.jpg"
+        },
+        {
+            "index": "17",
+            "product": "Pentax K-1",
+            "value": "96",
+            "bfb": "94.12",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/170732980.jpg"
+        },
+        {
+            "index": "18",
+            "product": "Canon EOS R3",
+            "value": "96",
+            "bfb": "94.12",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/175425132.jpg"
+        },
+        {
+            "index": "19",
+            "product": "Nikon D800E",
+            "value": "96",
+            "bfb": "94.12",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "20",
+            "product": "Sony A7M3",
+            "value": "96",
+            "bfb": "94.12",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "21",
+            "product": "Panasonic DC-S1",
+            "value": "95",
+            "bfb": "93.14",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/171729432.jpg"
+        },
+        {
+            "index": "22",
+            "product": "Canon EOS R5",
+            "value": "95",
+            "bfb": "93.14",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/175425132.jpg"
+        },
+        {
+            "index": "23",
+            "product": "Nikon Z6",
+            "value": "95",
+            "bfb": "93.14",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "24",
+            "product": "Sony A7R",
+            "value": "95",
+            "bfb": "93.14",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "25",
+            "product": "Sony A7C",
+            "value": "95",
+            "bfb": "93.14",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "26",
+            "product": "Leica SL2-S",
+            "value": "95",
+            "bfb": "93.14",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/171219748.jpg"
+        },
+        {
+            "index": "27",
+            "product": "Nikon D800",
+            "value": "95",
+            "bfb": "93.14",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "28",
+            "product": "Nikon Z6 II",
+            "value": "94",
+            "bfb": "92.16",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "29",
+            "product": "Nikon D600",
+            "value": "94",
+            "bfb": "92.16",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "30",
+            "product": "Nikon D610",
+            "value": "94",
+            "bfb": "92.16",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "31",
+            "product": "Panasonic S5",
+            "value": "94",
+            "bfb": "92.16",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/171729432.jpg"
+        },
+        {
+            "index": "32",
+            "product": "Sony A9M2",
+            "value": "93",
+            "bfb": "91.18",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "33",
+            "product": "Nikon D750",
+            "value": "93",
+            "bfb": "91.18",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "34",
+            "product": "Sony RX1",
+            "value": "93",
+            "bfb": "91.18",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "35",
+            "product": "Sony A9",
+            "value": "92",
+            "bfb": "90.2",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "36",
+            "product": "Sony A99 II",
+            "value": "92",
+            "bfb": "90.2",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "37",
+            "product": "Sony RX1R",
+            "value": "91",
+            "bfb": "89.22",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "38",
+            "product": "Canon EOS 1D X Mark III",
+            "value": "91",
+            "bfb": "89.22",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/175425132.jpg"
+        },
+        {
+            "index": "39",
+            "product": "Canon EOS 5D IV",
+            "value": "91",
+            "bfb": "89.22",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/175425132.jpg"
+        },
+        {
+            "index": "40",
+            "product": "Sony A7",
+            "value": "90",
+            "bfb": "88.24",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "41",
+            "product": "Canon EOS R6",
+            "value": "90",
+            "bfb": "88.24",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/175425132.jpg"
+        },
+        {
+            "index": "42",
+            "product": "Sony A7M2",
+            "value": "90",
+            "bfb": "88.24",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "43",
+            "product": "Nikon Df",
+            "value": "89",
+            "bfb": "87.25",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "44",
+            "product": "Nikon D4",
+            "value": "89",
+            "bfb": "87.25",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "45",
+            "product": "Canon EOS R",
+            "value": "89",
+            "bfb": "87.25",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/175425132.jpg"
+        },
+        {
+            "index": "46",
+            "product": "Nikon D4S",
+            "value": "89",
+            "bfb": "87.25",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "47",
+            "product": "Sony SLT-A99",
+            "value": "89",
+            "bfb": "87.25",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "48",
+            "product": "Leica SL",
+            "value": "88",
+            "bfb": "86.27",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/171219748.jpg"
+        },
+        {
+            "index": "49",
+            "product": "Canon EOS 1D X Mark II",
+            "value": "88",
+            "bfb": "86.27",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/175425132.jpg"
+        },
+        {
+            "index": "50",
+            "product": "Nikon D3X",
+            "value": "88",
+            "bfb": "86.27",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "51",
+            "product": "Nikon D5",
+            "value": "88",
+            "bfb": "86.27",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "52",
+            "product": "Sony A7S",
+            "value": "87",
+            "bfb": "85.29",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "53",
+            "product": "Nikon D7200",
+            "value": "87",
+            "bfb": "85.29",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "54",
+            "product": "Samsung NX500",
+            "value": "87",
+            "bfb": "85.29",
+            "logo": "https://drivers.mydrivers.com/images/company/20200411/194524589.png"
+        },
+        {
+            "index": "55",
+            "product": "Canon EOS 5Ds",
+            "value": "87",
+            "bfb": "85.29",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/175425132.jpg"
+        },
+        {
+            "index": "56",
+            "product": "Leica M10",
+            "value": "86",
+            "bfb": "84.31",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/171219748.jpg"
+        },
+        {
+            "index": "57",
+            "product": "Canon EOS 5Ds R",
+            "value": "86",
+            "bfb": "84.31",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/175425132.jpg"
+        },
+        {
+            "index": "58",
+            "product": "Sony A7S3",
+            "value": "86",
+            "bfb": "84.31",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "59",
+            "product": "Nikon D3400",
+            "value": "86",
+            "bfb": "84.31",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "60",
+            "product": "Nikon D7500",
+            "value": "86",
+            "bfb": "84.31",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "61",
+            "product": "Canon EOS 6D II",
+            "value": "85",
+            "bfb": "83.33",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/175425132.jpg"
+        },
+        {
+            "index": "62",
+            "product": "Sony A7S2",
+            "value": "85",
+            "bfb": "83.33",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "63",
+            "product": "Sony A6300",
+            "value": "85",
+            "bfb": "83.33",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "64",
+            "product": "Leica Q Typ 116",
+            "value": "85",
+            "bfb": "83.33",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/171219748.jpg"
+        },
+        {
+            "index": "65",
+            "product": "Sony A6500",
+            "value": "85",
+            "bfb": "83.33",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "66",
+            "product": "Canon EOS RP",
+            "value": "85",
+            "bfb": "83.33",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/175425132.jpg"
+        },
+        {
+            "index": "67",
+            "product": "Nikon D5500",
+            "value": "84",
+            "bfb": "82.35",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "68",
+            "product": "Leica M240",
+            "value": "84",
+            "bfb": "82.35",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/171219748.jpg"
+        },
+        {
+            "index": "69",
+            "product": "Nikon D500",
+            "value": "84",
+            "bfb": "82.35",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "70",
+            "product": "Nikon D5200",
+            "value": "84",
+            "bfb": "82.35",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "71",
+            "product": "Nikon D5600",
+            "value": "84",
+            "bfb": "82.35",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "72",
+            "product": "Nikon D7100",
+            "value": "83",
+            "bfb": "81.37",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "73",
+            "product": "Nikon D5300",
+            "value": "83",
+            "bfb": "81.37",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "74",
+            "product": "Sony A6400",
+            "value": "83",
+            "bfb": "81.37",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "75",
+            "product": "Samsung NX1",
+            "value": "83",
+            "bfb": "81.37",
+            "logo": "https://drivers.mydrivers.com/images/company/20200411/194524589.png"
+        },
+        {
+            "index": "76",
+            "product": "Pentax 645D",
+            "value": "82",
+            "bfb": "80.39",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/170732980.jpg"
+        },
+        {
+            "index": "77",
+            "product": "Nikon D3S",
+            "value": "82",
+            "bfb": "80.39",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "78",
+            "product": "Pentax K-5 IIS",
+            "value": "82",
+            "bfb": "80.39",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/170732980.jpg"
+        },
+        {
+            "index": "79",
+            "product": "Sony A6000",
+            "value": "82",
+            "bfb": "80.39",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "80",
+            "product": "Sony A77 II",
+            "value": "82",
+            "bfb": "80.39",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "81",
+            "product": "Pentax K-5 II",
+            "value": "82",
+            "bfb": "80.39",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/170732980.jpg"
+        },
+        {
+            "index": "82",
+            "product": "Nikon D3300",
+            "value": "82",
+            "bfb": "80.39",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "83",
+            "product": "Canon EOS 1D X",
+            "value": "82",
+            "bfb": "80.39",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/175425132.jpg"
+        },
+        {
+            "index": "84",
+            "product": "Canon EOS 6D",
+            "value": "82",
+            "bfb": "80.39",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/175425132.jpg"
+        },
+        {
+            "index": "85",
+            "product": "Sony A6600",
+            "value": "82",
+            "bfb": "80.39",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "86",
+            "product": "Pentax K-5",
+            "value": "82",
+            "bfb": "80.39",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/170732980.jpg"
+        },
+        {
+            "index": "87",
+            "product": "Nikon D3200",
+            "value": "81",
+            "bfb": "79.41",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        },
+        {
+            "index": "88",
+            "product": "Canon EOS 5D III",
+            "value": "81",
+            "bfb": "79.41",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/175425132.jpg"
+        },
+        {
+            "index": "89",
+            "product": "Sony NEX-7",
+            "value": "81",
+            "bfb": "79.41",
+            "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+        },
+        {
+            "index": "90",
+            "product": "Nikon D3",
+            "value": "81",
+            "bfb": "79.41",
+            "logo": "https://drivers.mydrivers.com/images/company/20220624/173420437.jpg"
+        }
+    ],
+    "updateTime": "2022-07-13",
+    "infoNote": "1. The data for this ranking comes from the DxOMark digital camera leaderboard.|||2. DxOMark scores the image quality of digital cameras based on three aspects: portrait, landscape, and action, providing a more intuitive and quantifiable measurement standard.|||3. The overall score is derived from multiple individual scores through a proportional algorithm, reflecting the overall photography level of the digital camera.|||4. The data in this list is for reference only for interested users. There's no subjective judgment on the quality of the products; users should determine the suitability of the products themselves.|||5. There might be imperfections or inaccuracies in the data. We welcome valuable suggestions in the comments or feedback via email at info@iranking.xyz ."
+}

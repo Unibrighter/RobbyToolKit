@@ -1,0 +1,49 @@
+{
+    "category": "电脑",
+    "rankingList": [
+        {
+            "index": "1",
+            "product": "亚马逊云计算Amazon AWS",
+            "value": "38.92",
+            "bfb": "100",
+            "logo": "https://drivers.mydrivers.com/images/company/20210621/163549175.png"
+        },
+        {
+            "index": "2",
+            "product": "微软云计算Microsoft Azure",
+            "value": "21.07",
+            "bfb": "54.14",
+            "logo": "https://drivers.mydrivers.com/images/company/20230308/173018275.jpg"
+        },
+        {
+            "index": "3",
+            "product": "阿里云Alibaba Cloud",
+            "value": "9.55",
+            "bfb": "24.54",
+            "logo": "https://drivers.mydrivers.com/images/company/20210621/165253468.png"
+        },
+        {
+            "index": "4",
+            "product": "谷歌云Google Cloud",
+            "value": "7.08",
+            "bfb": "18.19",
+            "logo": "https://drivers.mydrivers.com/images/company/20200417/173153550.png"
+        },
+        {
+            "index": "5",
+            "product": "华为云Huawei Cloud",
+            "value": "4.61",
+            "bfb": "11.84",
+            "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+        },
+        {
+            "index": "6",
+            "product": "腾讯云Tencent Cloud",
+            "value": "2.84",
+            "bfb": "7.3",
+            "logo": "https://drivers.mydrivers.com/images/company/20210414/204455477.png"
+        }
+    ],
+    "updateTime": "2022-11-15",
+    "infoNote": "相关数据来自公开搜集，咨询机构发布的详细报告需要付费订阅。"
+}

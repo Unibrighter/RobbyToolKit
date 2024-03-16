@@ -1,0 +1,231 @@
+{
+    "category": "Car",
+    "rankingList": [
+        {
+            "index": "1",
+            "product": "BMW",
+            "value": "81",
+            "bfb": "100",
+            "logo": "https://drivers.mydrivers.com/images/company/20200424/174913119.png"
+        },
+        {
+            "index": "2",
+            "product": "Subaru",
+            "value": "79",
+            "bfb": "97.53",
+            "logo": "https://drivers.mydrivers.com/images/company/20230312/160712639.jpg"
+        },
+        {
+            "index": "3",
+            "product": "MINI",
+            "value": "79",
+            "bfb": "97.53",
+            "logo": "https://drivers.mydrivers.com/images/company/20230312/161312823.jpg"
+        },
+        {
+            "index": "4",
+            "product": "Lexus",
+            "value": "77",
+            "bfb": "95.06",
+            "logo": "https://drivers.mydrivers.com/images/company/20200424/182539149.png"
+        },
+        {
+            "index": "5",
+            "product": "Honda",
+            "value": "77",
+            "bfb": "95.06",
+            "logo": "https://drivers.mydrivers.com/images/company/20200425/181046522.png"
+        },
+        {
+            "index": "6",
+            "product": "Toyota",
+            "value": "76",
+            "bfb": "93.83",
+            "logo": "https://drivers.mydrivers.com/images/company/20200424/180718403.png"
+        },
+        {
+            "index": "7",
+            "product": "Genesis",
+            "value": "76",
+            "bfb": "93.83",
+            "logo": "https://drivers.mydrivers.com/images/company/20230312/162437742.jpg"
+        },
+        {
+            "index": "8",
+            "product": "Mazda",
+            "value": "75",
+            "bfb": "92.59",
+            "logo": "https://drivers.mydrivers.com/images/company/20230312/163005691.jpg"
+        },
+        {
+            "index": "9",
+            "product": "Audi",
+            "value": "74",
+            "bfb": "91.36",
+            "logo": "https://drivers.mydrivers.com/images/company/20200425/175849824.png"
+        },
+        {
+            "index": "10",
+            "product": "Kia",
+            "value": "73",
+            "bfb": "90.12",
+            "logo": "https://drivers.mydrivers.com/images/company/20200425/181145659.png"
+        },
+        {
+            "index": "11",
+            "product": "Acura",
+            "value": "72",
+            "bfb": "88.89",
+            "logo": "https://drivers.mydrivers.com/images/company/20230312/163730992.jpg"
+        },
+        {
+            "index": "12",
+            "product": "Buick",
+            "value": "71",
+            "bfb": "87.65",
+            "logo": "https://drivers.mydrivers.com/images/company/20200424/180531501.png"
+        },
+        {
+            "index": "13",
+            "product": "Hyundai",
+            "value": "71",
+            "bfb": "87.65",
+            "logo": "https://drivers.mydrivers.com/images/company/20230312/164201249.jpg"
+        },
+        {
+            "index": "14",
+            "product": "Porsche",
+            "value": "70",
+            "bfb": "86.42",
+            "logo": "https://drivers.mydrivers.com/images/company/20200424/175410817.png"
+        },
+        {
+            "index": "15",
+            "product": "Dodge",
+            "value": "68",
+            "bfb": "83.95",
+            "logo": "https://drivers.mydrivers.com/images/company/20230312/165403207.jpg"
+        },
+        {
+            "index": "16",
+            "product": "Tesla",
+            "value": "66",
+            "bfb": "81.48",
+            "logo": "https://drivers.mydrivers.com/images/company/20200424/182307937.png"
+        },
+        {
+            "index": "17",
+            "product": "Lincoln",
+            "value": "66",
+            "bfb": "81.48",
+            "logo": "https://drivers.mydrivers.com/images/company/20230312/170325411.jpg"
+        },
+        {
+            "index": "18",
+            "product": "Infiniti",
+            "value": "65",
+            "bfb": "80.25",
+            "logo": "https://drivers.mydrivers.com/images/company/20230312/175805947.jpg"
+        },
+        {
+            "index": "19",
+            "product": "Volkswagen",
+            "value": "64",
+            "bfb": "79.01",
+            "logo": "https://drivers.mydrivers.com/images/company/20200424/180626669.png"
+        },
+        {
+            "index": "20",
+            "product": "Volvo",
+            "value": "64",
+            "bfb": "79.01",
+            "logo": "https://drivers.mydrivers.com/images/company/20230312/171623884.jpg"
+        },
+        {
+            "index": "21",
+            "product": "Nissan",
+            "value": "63",
+            "bfb": "77.78",
+            "logo": "https://drivers.mydrivers.com/images/company/20200424/182802518.png"
+        },
+        {
+            "index": "22",
+            "product": "Ford",
+            "value": "63",
+            "bfb": "77.78",
+            "logo": "https://drivers.mydrivers.com/images/company/20200424/180914499.png"
+        },
+        {
+            "index": "23",
+            "product": "Chevrolet",
+            "value": "62",
+            "bfb": "76.54",
+            "logo": "https://drivers.mydrivers.com/images/company/20200425/181437867.png"
+        },
+        {
+            "index": "24",
+            "product": "Cadillac",
+            "value": "62",
+            "bfb": "76.54",
+            "logo": "https://drivers.mydrivers.com/images/company/20200424/182339765.png"
+        },
+        {
+            "index": "25",
+            "product": "Chrysler",
+            "value": "62",
+            "bfb": "76.54",
+            "logo": "https://drivers.mydrivers.com/images/company/20230312/180441519.jpg"
+        },
+        {
+            "index": "26",
+            "product": "Mercedes-Benz",
+            "value": "56",
+            "bfb": "69.14",
+            "logo": "https://drivers.mydrivers.com/images/company/20200424/175850665.png"
+        },
+        {
+            "index": "27",
+            "product": "GMC",
+            "value": "55",
+            "bfb": "67.9",
+            "logo": "https://drivers.mydrivers.com/images/company/20230312/172534505.jpg"
+        },
+        {
+            "index": "28",
+            "product": "Mitsubishi",
+            "value": "54",
+            "bfb": "66.67",
+            "logo": "https://drivers.mydrivers.com/images/company/20230312/173122008.jpg"
+        },
+        {
+            "index": "29",
+            "product": "Alfa Romeo",
+            "value": "53",
+            "bfb": "65.43",
+            "logo": "https://drivers.mydrivers.com/images/company/20230312/173546701.jpg"
+        },
+        {
+            "index": "30",
+            "product": "Jaguar",
+            "value": "52",
+            "bfb": "64.2",
+            "logo": "https://drivers.mydrivers.com/images/company/20200424/182028523.png"
+        },
+        {
+            "index": "31",
+            "product": "Jeep",
+            "value": "46",
+            "bfb": "56.79",
+            "logo": "https://drivers.mydrivers.com/images/company/20230312/174357394.jpg"
+        },
+        {
+            "index": "32",
+            "product": "Land Rover",
+            "value": "45",
+            "bfb": "55.56",
+            "logo": "https://drivers.mydrivers.com/images/company/20230312/174737954.jpg"
+        }
+    ],
+    "updateTime": "2023-03-13",
+    "infoNote": "1. The data for this ranking comes from the annual comprehensive evaluation list regularly published by the U.S. \"Consumer Reports\" (CR).|||2. CR's benchmarks are based on four factors: reliability, safety, owner satisfaction, and road tests. Reliability is based on organization surveys and predictions from those surveys. Safety scores are based on crash test scores and available safety features. Owner satisfaction is based on surveys completed by registered CR members. Finally, the road test scores are based on the organization's actual testing of the vehicles.|||3. The data in this list is for reference only for interested users. There's no subjective judgment on the quality of the products; users should determine the suitability of the products themselves.|||4. There might be imperfections or inaccuracies in the data. We welcome valuable suggestions in the comments or feedback via email at info@iranking.xyz ."
+}

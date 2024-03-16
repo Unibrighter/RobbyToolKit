@@ -1,0 +1,156 @@
+{
+    "code": 1,
+    "msg": "success",
+    "data": {
+        "option": [
+            {
+                "key": "companyid",
+                "boption": "品牌",
+                "bvalue": [
+                    {
+                        "specific": "全部",
+                        "compamyID": "0",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "亚马逊",
+                        "compamyID": "1939",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "微软",
+                        "compamyID": "630",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "阿里巴巴",
+                        "compamyID": "1802",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "谷歌",
+                        "compamyID": "1786",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "其它厂商",
+                        "compamyID": "2412",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "华为", 
+                        "compamyID": "1107",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "腾讯科技",
+                        "compamyID": "1785",
+                        "typeindex": "0"
+                    }
+                ]
+            },
+            {
+                "key": "sortname",
+                "boption": "分类",
+                "bvalue": [
+                    {
+                        "specific": "全球排行",
+                        "sortname": "custom",
+                        "ischoice": "0",
+                        "typeindex": "1",
+                        "boption": "选项",
+                        "bvalue": []
+                    },
+                    {
+                        "specific": "中国排行",
+                        "sortname": "custom_2",
+                        "ischoice": "0",
+                        "typeindex": "0",
+                        "boption": "选项",
+                        "bvalue": []
+                    },
+                    {
+                        "specific": "亚太排行",
+                        "sortname": "custom_3",
+                        "ischoice": "0",
+                        "typeindex": "0",
+                        "boption": "选项",
+                        "bvalue": []
+                    }
+                ]
+            },
+            {
+                "key": "year",
+                "boption": "年",
+                "bvalue": [
+                    {
+                        "specific": "全部",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "2021",
+                        "typeindex": "1"
+                    },
+                    {
+                        "specific": "2020",
+                        "typeindex": "0"
+                    }
+                ]
+            }
+        ],
+        "value": [
+            {
+                "index": "1",
+                "product": "亚马逊云计算Amazon AWS",
+                "value": "38.92",
+                "bfb": "100",
+                "logo": "https://drivers.mydrivers.com/images/company/20210621/163549175.png"
+            },
+            {
+                "index": "2",
+                "product": "微软云计算Microsoft Azure",
+                "value": "21.07",
+                "bfb": "54.14",
+                "logo": "https://drivers.mydrivers.com/images/company/20230308/173018275.jpg"
+            },
+            {
+                "index": "3",
+                "product": "阿里云Alibaba Cloud",
+                "value": "9.55",
+                "bfb": "24.54",
+                "logo": "https://drivers.mydrivers.com/images/company/20210621/165253468.png"
+            },
+            {
+                "index": "4",
+                "product": "谷歌云Google Cloud",
+                "value": "7.08",
+                "bfb": "18.19",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173153550.png"
+            },
+            {
+                "index": "5",
+                "product": "华为云Huawei Cloud",
+                "value": "4.61",
+                "bfb": "11.84",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "6",
+                "product": "腾讯云Tencent Cloud",
+                "value": "2.84",
+                "bfb": "7.3",
+                "logo": "https://drivers.mydrivers.com/images/company/20210414/204455477.png"
+            }
+        ],
+        "urllist": [
+            {
+                "url": ""
+            }
+        ],
+        "explain": "相关数据来自公开搜集，咨询机构发布的详细报告需要付费订阅。",
+        "unit": "％",
+        "surl": "网络",
+        "utime": "2022-11-15",
+        "strtime": "2021年 全球排行"
+    }
+}

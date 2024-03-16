@@ -1,0 +1,282 @@
+{
+    "code": 1,
+    "msg": "success",
+    "data": {
+        "option": [
+            {
+                "key": "companyid",
+                "boption": "品牌",
+                "bvalue": [
+                    {
+                        "specific": "全部",
+                        "compamyID": "0",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "谷歌",
+                        "compamyID": "1786",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "微软",
+                        "compamyID": "630",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "苹果",
+                        "compamyID": "116",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "其它厂商",
+                        "compamyID": "2412",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "Linux基金会",
+                        "compamyID": "2413",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "三星",
+                        "compamyID": "829",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "Mozilla",
+                        "compamyID": "1805",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "索尼",
+                        "compamyID": "875",
+                        "typeindex": "0"
+                    }
+                ]
+            },
+            {
+                "key": "sortname",
+                "boption": "分类",
+                "bvalue": [
+                    {
+                        "specific": "系统平台市场份额全球榜",
+                        "sortname": "custom",
+                        "ischoice": "0",
+                        "typeindex": "1",
+                        "boption": "选项",
+                        "bvalue": []
+                    },
+                    {
+                        "specific": "全球桌面系统市场份额",
+                        "sortname": "custom_2",
+                        "ischoice": "0",
+                        "typeindex": "0",
+                        "boption": "选项",
+                        "bvalue": []
+                    },
+                    {
+                        "specific": "全球手机平台市场份额",
+                        "sortname": "custom_3",
+                        "ischoice": "0",
+                        "typeindex": "0",
+                        "boption": "选项",
+                        "bvalue": []
+                    },
+                    {
+                        "specific": "中国区操作系统市场份额",
+                        "sortname": "custom_4",
+                        "ischoice": "0",
+                        "typeindex": "0",
+                        "boption": "选项",
+                        "bvalue": []
+                    },
+                    {
+                        "specific": "中国区手机系统市场份额",
+                        "sortname": "custom_5",
+                        "ischoice": "0",
+                        "typeindex": "0",
+                        "boption": "选项",
+                        "bvalue": []
+                    },
+                    {
+                        "specific": "中国区桌面系统市场份额",
+                        "sortname": "custom_6",
+                        "ischoice": "0",
+                        "typeindex": "0",
+                        "boption": "选项",
+                        "bvalue": []
+                    }
+                ]
+            },
+            {
+                "key": "year",
+                "boption": "年",
+                "bvalue": [
+                    {
+                        "specific": "全部",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "2023",
+                        "typeindex": "1"
+                    },
+                    {
+                        "specific": "2022",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "2021",
+                        "typeindex": "0"
+                    }
+                ]
+            },
+            {
+                "key": "month",
+                "boption": "月",
+                "bvalue": [
+                    {
+                        "specific": "全部",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "12",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "11",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "10",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "9",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "8",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "7",
+                        "typeindex": "1"
+                    },
+                    {
+                        "specific": "6",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "5",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "4",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "3",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "2",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "1",
+                        "typeindex": "0"
+                    }
+                ]
+            }
+        ],
+        "value": [
+            {
+                "index": "1",
+                "product": "Android系统",
+                "value": "40.12",
+                "bfb": "100",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173153550.png"
+            },
+            {
+                "index": "2",
+                "product": "Windows系统",
+                "value": "29.34",
+                "bfb": "73.13",
+                "logo": "https://drivers.mydrivers.com/images/company/20230308/173018275.jpg"
+            },
+            {
+                "index": "3",
+                "product": "iOS系统",
+                "value": "16.78",
+                "bfb": "41.82",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/191655762.png"
+            },
+            {
+                "index": "4",
+                "product": "macOS系统",
+                "value": "8.62",
+                "bfb": "21.49",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/191655762.png"
+            },
+            {
+                "index": "5",
+                "product": "Others",
+                "value": "1.64",
+                "bfb": "4.09",
+                "logo": "https://drivers.mydrivers.com/images/company/20210414/181913678.jpg"
+            },
+            {
+                "index": "6",
+                "product": "Chrome OS",
+                "value": "1.36",
+                "bfb": "3.39",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173153550.png"
+            },
+            {
+                "index": "7",
+                "product": "Linux系统",
+                "value": "1.33",
+                "bfb": "3.32",
+                "logo": "https://drivers.mydrivers.com/images/company/20210414/184756633.png"
+            },
+            {
+                "index": "8",
+                "product": "Xbox OS",
+                "value": "0.5",
+                "bfb": "1.25",
+                "logo": "https://drivers.mydrivers.com/images/company/20230308/173018275.jpg"
+            },
+            {
+                "index": "9",
+                "product": "Samsung OneUI",
+                "value": "0.21",
+                "bfb": "0.52",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/194524589.png"
+            },
+            {
+                "index": "10",
+                "product": "KaiOS",
+                "value": "0.08",
+                "bfb": "0.2",
+                "logo": "https://drivers.mydrivers.com/images/company/20210414/192446173.jpg"
+            },
+            {
+                "index": "11",
+                "product": "Playstation OS",
+                "value": "0.02",
+                "bfb": "0.05",
+                "logo": "https://drivers.mydrivers.com/images/company/20230205/180100676.jpg"
+            }
+        ],
+        "urllist": [
+            {
+                "url": ""
+            }
+        ],
+        "explain": "提供各个平台操作系统的市场占有率数据供用户参考。|||每月更新一次。|||数据来自Statcounter网页流量分析。",
+        "unit": "％",
+        "surl": "网络",
+        "utime": "2023-08-07",
+        "strtime": "2023年7月 系统平台市场份额全球榜"
+    }
+}

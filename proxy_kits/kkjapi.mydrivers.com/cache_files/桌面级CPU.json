@@ -1,0 +1,1022 @@
+{
+    "category": "电脑",
+    "rankingList": [
+        {
+            "index": "1",
+            "product": "AMD线程撕裂者3990X",
+            "value": "3071",
+            "bfb": "100",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "2",
+            "product": "Intel酷睿i9-13900KS",
+            "value": "2484",
+            "bfb": "80.89",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "3",
+            "product": "AMD线程撕裂者3970X",
+            "value": "2417",
+            "bfb": "78.7",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "4",
+            "product": "AMD锐龙9 7950X",
+            "value": "2416",
+            "bfb": "78.67",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "5",
+            "product": "Intel酷睿i9-13900K",
+            "value": "2414",
+            "bfb": "78.61",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "6",
+            "product": "AMD锐龙9 7950X3D",
+            "value": "2129",
+            "bfb": "69.33",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "7",
+            "product": "AMD锐龙9 7900X",
+            "value": "1989",
+            "bfb": "64.77",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "8",
+            "product": "AMD锐龙9 7900",
+            "value": "1941",
+            "bfb": "63.2",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "9",
+            "product": "Intel酷睿i7-13700K",
+            "value": "1918",
+            "bfb": "62.46",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "10",
+            "product": "Intel酷睿i9-12900KS",
+            "value": "1861",
+            "bfb": "60.6",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "11",
+            "product": "Intel至强W-3175X",
+            "value": "1754",
+            "bfb": "57.11",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "12",
+            "product": "Intel酷睿i9-12900K",
+            "value": "1744",
+            "bfb": "56.79",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "13",
+            "product": "AMD线程撕裂者3960X",
+            "value": "1730",
+            "bfb": "56.33",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "14",
+            "product": "AMD锐龙9 5950X",
+            "value": "1699",
+            "bfb": "55.32",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "15",
+            "product": "AMD线程撕裂者2990WX",
+            "value": "1656",
+            "bfb": "53.92",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "16",
+            "product": "Intel酷睿i5-13600K",
+            "value": "1616",
+            "bfb": "52.62",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "17",
+            "product": "AMD锐龙7 7700X",
+            "value": "1575",
+            "bfb": "51.29",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "18",
+            "product": "AMD锐龙7 7700",
+            "value": "1518",
+            "bfb": "49.43",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "19",
+            "product": "AMD线程撕裂者2970WX",
+            "value": "1447",
+            "bfb": "47.12",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "20",
+            "product": "AMD锐龙9 5900X",
+            "value": "1443",
+            "bfb": "46.99",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "21",
+            "product": "Intel酷睿i9-10980XE",
+            "value": "1443",
+            "bfb": "46.99",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "22",
+            "product": "AMD锐龙9 3950X",
+            "value": "1434",
+            "bfb": "46.69",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "23",
+            "product": "Intel酷睿i7-12700K",
+            "value": "1416",
+            "bfb": "46.11",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "24",
+            "product": "Intel酷睿i9-9980XE",
+            "value": "1391",
+            "bfb": "45.29",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "25",
+            "product": "AMD锐龙5 7600X",
+            "value": "1325",
+            "bfb": "43.15",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "26",
+            "product": "Intel酷睿i5-13490F",
+            "value": "1261",
+            "bfb": "41.06",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "27",
+            "product": "AMD锐龙5 7600",
+            "value": "1245",
+            "bfb": "40.54",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "28",
+            "product": "AMD锐龙9 3900XT",
+            "value": "1239",
+            "bfb": "40.35",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "29",
+            "product": "Intel酷睿i5-12600K",
+            "value": "1236",
+            "bfb": "40.25",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "30",
+            "product": "AMD锐龙9 3900X",
+            "value": "1213",
+            "bfb": "39.5",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "31",
+            "product": "AMD锐龙5 7500F",
+            "value": "1211",
+            "bfb": "39.43",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "32",
+            "product": "AMD线程撕裂者2950X",
+            "value": "1180",
+            "bfb": "38.42",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "33",
+            "product": "Intel酷睿i9-11900K",
+            "value": "1169",
+            "bfb": "38.07",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "34",
+            "product": "Intel酷睿i9-11900KF",
+            "value": "1168",
+            "bfb": "38.03",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "35",
+            "product": "AMD锐龙7 5800X",
+            "value": "1162",
+            "bfb": "37.84",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "36",
+            "product": "Intel酷睿i9-11900",
+            "value": "1147",
+            "bfb": "37.35",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "37",
+            "product": "Intel酷睿i9-9960X",
+            "value": "1143",
+            "bfb": "37.22",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "38",
+            "product": "AMD锐龙7 5700G",
+            "value": "1133",
+            "bfb": "36.89",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "39",
+            "product": "Intel酷睿i9-10900K",
+            "value": "1131",
+            "bfb": "36.83",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "40",
+            "product": "AMD 锐龙7 5700X",
+            "value": "1125",
+            "bfb": "36.63",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "41",
+            "product": "Intel酷睿i9-10850K",
+            "value": "1120",
+            "bfb": "36.47",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "42",
+            "product": "Intel酷睿i9-10940X",
+            "value": "1113",
+            "bfb": "36.24",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "43",
+            "product": "AMD线程撕裂者1950X",
+            "value": "1101",
+            "bfb": "35.85",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "44",
+            "product": "Intel酷睿i9-11900F",
+            "value": "1100",
+            "bfb": "35.82",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "45",
+            "product": "Intel酷睿i7-11700K",
+            "value": "1082",
+            "bfb": "35.23",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "46",
+            "product": "Intel酷睿i9-9940X",
+            "value": "1066",
+            "bfb": "34.71",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "47",
+            "product": "Intel酷睿i7-11700",
+            "value": "1046",
+            "bfb": "34.06",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "48",
+            "product": "Intel酷睿i5-12400",
+            "value": "1038",
+            "bfb": "33.8",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "49",
+            "product": "Intel酷睿i9-10900X",
+            "value": "1037",
+            "bfb": "33.77",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "50",
+            "product": "AMD线程撕裂者2920X",
+            "value": "1029",
+            "bfb": "33.51",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "51",
+            "product": "Intel酷睿i9-9900KS",
+            "value": "997",
+            "bfb": "32.46",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "52",
+            "product": "Intel酷睿i9-9920X",
+            "value": "986",
+            "bfb": "32.11",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "53",
+            "product": "Intel酷睿i7-10700K",
+            "value": "970",
+            "bfb": "31.59",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "54",
+            "product": "AMD锐龙7 3800XT",
+            "value": "967",
+            "bfb": "31.49",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "55",
+            "product": "AMD线程撕裂者1920X",
+            "value": "965",
+            "bfb": "31.42",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "56",
+            "product": "Intel酷睿i9-9900K",
+            "value": "964",
+            "bfb": "31.39",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "57",
+            "product": "Intel酷睿i9-9900X",
+            "value": "954",
+            "bfb": "31.06",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "58",
+            "product": "Intel酷睿i5-11600K",
+            "value": "951",
+            "bfb": "30.97",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "59",
+            "product": "AMD锐龙5 5600G",
+            "value": "949",
+            "bfb": "30.9",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "60",
+            "product": "AMD锐龙5 5600X",
+            "value": "947",
+            "bfb": "30.84",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "61",
+            "product": "AMD锐龙7 3800X",
+            "value": "934",
+            "bfb": "30.41",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "62",
+            "product": "AMD锐龙7 3700X",
+            "value": "924",
+            "bfb": "30.09",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "63",
+            "product": "AMD锐龙7 PRO 4750G",
+            "value": "923",
+            "bfb": "30.06",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "64",
+            "product": "Intel酷睿i5-11600",
+            "value": "910",
+            "bfb": "29.63",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "65",
+            "product": "Intel酷睿i9-9820X",
+            "value": "898",
+            "bfb": "29.24",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "66",
+            "product": "Intel酷睿i7-9800X",
+            "value": "894",
+            "bfb": "29.11",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "67",
+            "product": "Intel酷睿i5-11500",
+            "value": "868",
+            "bfb": "28.26",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "68",
+            "product": "Intel酷睿i5-11400",
+            "value": "862",
+            "bfb": "28.07",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "69",
+            "product": "Intel酷睿i5-10600K",
+            "value": "829",
+            "bfb": "26.99",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "70",
+            "product": "AMD锐龙5 3600XT",
+            "value": "824",
+            "bfb": "26.83",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "71",
+            "product": "Intel酷睿i7-9700K",
+            "value": "823",
+            "bfb": "26.8",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "72",
+            "product": "Intel酷睿i7-9700KF",
+            "value": "823",
+            "bfb": "26.8",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "73",
+            "product": "AMD锐龙5 3600X",
+            "value": "802",
+            "bfb": "26.12",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "74",
+            "product": "Intel酷睿i7-8086K",
+            "value": "790",
+            "bfb": "25.72",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "75",
+            "product": "Intel酷睿i7-8700K",
+            "value": "781",
+            "bfb": "25.43",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "76",
+            "product": "AMD锐龙7 2700X",
+            "value": "776",
+            "bfb": "25.27",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "77",
+            "product": "AMD锐龙5 3600",
+            "value": "765",
+            "bfb": "24.91",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "78",
+            "product": "Intel酷睿i5-11600T",
+            "value": "757",
+            "bfb": "24.65",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "79",
+            "product": "Intel酷睿i5-11400T",
+            "value": "733",
+            "bfb": "23.87",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "80",
+            "product": "AMD锐龙7 1800X",
+            "value": "732",
+            "bfb": "23.84",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "81",
+            "product": "Intel酷睿i5-10400F",
+            "value": "732",
+            "bfb": "23.84",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "82",
+            "product": "Intel酷睿i5-11500T",
+            "value": "730",
+            "bfb": "23.77",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "83",
+            "product": "AMD锐龙7 2700",
+            "value": "709",
+            "bfb": "23.09",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "84",
+            "product": "AMD锐龙7 1700X",
+            "value": "700",
+            "bfb": "22.79",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "85",
+            "product": "Intel酷睿i7-6950X",
+            "value": "693",
+            "bfb": "22.57",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "86",
+            "product": "Intel酷睿i5-9600K",
+            "value": "685",
+            "bfb": "22.31",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "87",
+            "product": "Intel酷睿i5-9600KF",
+            "value": "680",
+            "bfb": "22.14",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "88",
+            "product": "AMD锐龙3 3300X",
+            "value": "678",
+            "bfb": "22.08",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "89",
+            "product": "AMD锐龙5 2600X",
+            "value": "672",
+            "bfb": "21.88",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "90",
+            "product": "AMD锐龙7 1700",
+            "value": "664",
+            "bfb": "21.62",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "91",
+            "product": "AMD锐龙5 3500X",
+            "value": "656",
+            "bfb": "21.36",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "92",
+            "product": "Intel酷睿i5-9500",
+            "value": "656",
+            "bfb": "21.36",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "93",
+            "product": "Intel酷睿i5-8600K",
+            "value": "649",
+            "bfb": "21.13",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "94",
+            "product": "AMD锐龙5 1600X",
+            "value": "647",
+            "bfb": "21.07",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "95",
+            "product": "Intel酷睿i5-8600",
+            "value": "640",
+            "bfb": "20.84",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "96",
+            "product": "AMD锐龙5 2600",
+            "value": "627",
+            "bfb": "20.42",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "97",
+            "product": "Intel酷睿i7-7700K",
+            "value": "621",
+            "bfb": "20.22",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "98",
+            "product": "Intel酷睿i5-8500",
+            "value": "617",
+            "bfb": "20.09",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "99",
+            "product": "Intel酷睿i5-9400F",
+            "value": "617",
+            "bfb": "20.09",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "100",
+            "product": "Intel酷睿i5-9400",
+            "value": "616",
+            "bfb": "20.06",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "101",
+            "product": "Intel至强E3-1230 v6",
+            "value": "605",
+            "bfb": "19.7",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "102",
+            "product": "AMD锐龙3 3100",
+            "value": "603",
+            "bfb": "19.64",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "103",
+            "product": "Intel酷睿i5-8400",
+            "value": "601",
+            "bfb": "19.57",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "104",
+            "product": "Intel酷睿i3-9350K",
+            "value": "589",
+            "bfb": "19.18",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "105",
+            "product": "AMD锐龙5 1600",
+            "value": "581",
+            "bfb": "18.92",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "106",
+            "product": "Intel至强E3-1230 v5",
+            "value": "573",
+            "bfb": "18.66",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "107",
+            "product": "Intel酷睿i7-6700K",
+            "value": "565",
+            "bfb": "18.4",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "108",
+            "product": "AMD锐龙5 2500X",
+            "value": "559",
+            "bfb": "18.2",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "109",
+            "product": "Intel酷睿i3-9300",
+            "value": "550",
+            "bfb": "17.91",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "110",
+            "product": "Intel酷睿i3-9100",
+            "value": "537",
+            "bfb": "17.49",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "111",
+            "product": "Intel酷睿i5-7600K",
+            "value": "531",
+            "bfb": "17.29",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "112",
+            "product": "AMD锐龙5 3400G",
+            "value": "523",
+            "bfb": "17.03",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "113",
+            "product": "Intel酷睿i3-8350K",
+            "value": "521",
+            "bfb": "16.97",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "114",
+            "product": "AMD锐龙5 1500X",
+            "value": "498",
+            "bfb": "16.22",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "115",
+            "product": "Intel酷睿i5-6600K",
+            "value": "498",
+            "bfb": "16.22",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "116",
+            "product": "AMD锐龙3 2300X",
+            "value": "494",
+            "bfb": "16.09",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "117",
+            "product": "AMD锐龙5 2400G",
+            "value": "491",
+            "bfb": "15.99",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "118",
+            "product": "Intel酷睿i3-8300",
+            "value": "479",
+            "bfb": "15.6",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "119",
+            "product": "Intel至强E3-1230 v3",
+            "value": "479",
+            "bfb": "15.6",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "120",
+            "product": "Intel酷睿i3-8100",
+            "value": "468",
+            "bfb": "15.24",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "121",
+            "product": "AMD锐龙5 1400",
+            "value": "457",
+            "bfb": "14.88",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "122",
+            "product": "AMD锐龙3 1300X",
+            "value": "442",
+            "bfb": "14.39",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "123",
+            "product": "AMD锐龙3 1200",
+            "value": "422",
+            "bfb": "13.74",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "124",
+            "product": "Intel奔腾G5620",
+            "value": "422",
+            "bfb": "13.74",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "125",
+            "product": "Intel奔腾G5600",
+            "value": "411",
+            "bfb": "13.38",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "126",
+            "product": "Intel奔腾G5500",
+            "value": "401",
+            "bfb": "13.06",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "127",
+            "product": "Intel奔腾G5420",
+            "value": "401",
+            "bfb": "13.06",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "128",
+            "product": "Intel奔腾G5400",
+            "value": "390",
+            "bfb": "12.7",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "129",
+            "product": "AMD锐龙3 2200G",
+            "value": "388",
+            "bfb": "12.63",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "130",
+            "product": "Intel奔腾G4560",
+            "value": "367",
+            "bfb": "11.95",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "131",
+            "product": "AMD FX-9590",
+            "value": "359",
+            "bfb": "11.69",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "132",
+            "product": "AMD速龙3000G",
+            "value": "355",
+            "bfb": "11.56",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "133",
+            "product": "AMD速龙240GE",
+            "value": "352",
+            "bfb": "11.46",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "134",
+            "product": "AMD速龙220GE",
+            "value": "342",
+            "bfb": "11.14",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "135",
+            "product": "Intel赛扬G4950",
+            "value": "336",
+            "bfb": "10.94",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "136",
+            "product": "AMD FX-8350",
+            "value": "331",
+            "bfb": "10.78",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "137",
+            "product": "AMD速龙300GE",
+            "value": "330",
+            "bfb": "10.75",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "138",
+            "product": "Intel赛扬G4930",
+            "value": "326",
+            "bfb": "10.62",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "139",
+            "product": "Intel赛扬G4920",
+            "value": "326",
+            "bfb": "10.62",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "140",
+            "product": "AMD速龙200GE",
+            "value": "322",
+            "bfb": "10.49",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "141",
+            "product": "Intel赛扬G4900",
+            "value": "315",
+            "bfb": "10.26",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "142",
+            "product": "兆芯KX-U6780A",
+            "value": "253",
+            "bfb": "8.24",
+            "logo": "https://drivers.mydrivers.com/images/company/20200426/144716311.jpg"
+        },
+        {
+            "index": "143",
+            "product": "AMD速龙X4 860K",
+            "value": "251",
+            "bfb": "8.17",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "144",
+            "product": "AMD A10-9700",
+            "value": "225",
+            "bfb": "7.33",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "145",
+            "product": "AMD A8-9600",
+            "value": "208",
+            "bfb": "6.77",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        }
+    ],
+    "updateTime": "2023-07-25",
+    "infoNote": "1、快科技桌面级CPU性能排行榜数据皆来自本站日常评测数据。|||2、可以查看CPU的单核性能排名、多核性能排名、以及综合性能排名。|||3、参与测试的项目包括但不限于：CPU-Z、CineBench R15、CineBench R20、CineBench R23、POV-Ray、7-Zip、X264 FHD Benchmark、X265 FHD Benchmark、3DMark 物理分数、FritzChess Benchmark。|||4、CPU得分严格按照以上测试项目的成绩进行统计，务求给大家带来尽可能精准的性能排行榜。|||5、此榜单数据仅供有兴趣用户参考，不对产品优劣有主观评判，请用户自行确认产品的适用性。|||6、数据可能有不完善不严谨之处，欢迎留言留下宝贵建议，也可邮件反馈WenQ@kkj.cn"
+}

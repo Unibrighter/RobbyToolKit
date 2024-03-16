@@ -1,0 +1,105 @@
+{
+    "category": "软件",
+    "rankingList": [
+        {
+            "index": "1",
+            "product": "Chrome浏览器",
+            "value": "63.55",
+            "bfb": "100",
+            "logo": "https://drivers.mydrivers.com/images/company/20200417/173153550.png"
+        },
+        {
+            "index": "2",
+            "product": "Safari浏览器",
+            "value": "19.95",
+            "bfb": "31.39",
+            "logo": "https://drivers.mydrivers.com/images/company/20200411/191655762.png"
+        },
+        {
+            "index": "3",
+            "product": "Edge浏览器",
+            "value": "5.14",
+            "bfb": "8.09",
+            "logo": "https://drivers.mydrivers.com/images/company/20230308/173018275.jpg"
+        },
+        {
+            "index": "4",
+            "product": "Opera浏览器",
+            "value": "2.98",
+            "bfb": "4.69",
+            "logo": "https://drivers.mydrivers.com/images/company/20210414/193300847.png"
+        },
+        {
+            "index": "5",
+            "product": "Firefox浏览器",
+            "value": "2.79",
+            "bfb": "4.39",
+            "logo": "https://drivers.mydrivers.com/images/company/20210414/192446173.jpg"
+        },
+        {
+            "index": "6",
+            "product": "三星浏览器",
+            "value": "2.38",
+            "bfb": "3.75",
+            "logo": "https://drivers.mydrivers.com/images/company/20200411/194524589.png"
+        },
+        {
+            "index": "7",
+            "product": "UC浏览器",
+            "value": "1.01",
+            "bfb": "1.59",
+            "logo": "https://drivers.mydrivers.com/images/company/20210414/193701353.png"
+        },
+        {
+            "index": "8",
+            "product": "Android浏览器",
+            "value": "0.6",
+            "bfb": "0.94",
+            "logo": "https://drivers.mydrivers.com/images/company/20200417/173153550.png"
+        },
+        {
+            "index": "9",
+            "product": "QQ浏览器",
+            "value": "0.28",
+            "bfb": "0.44",
+            "logo": "https://drivers.mydrivers.com/images/company/20210414/204455477.png"
+        },
+        {
+            "index": "10",
+            "product": "Qihoo奇虎360安全浏览器",
+            "value": "0.27",
+            "bfb": "0.42",
+            "logo": "https://drivers.mydrivers.com/images/company/20210527/155814428.jpg"
+        },
+        {
+            "index": "11",
+            "product": "Yandex浏览器",
+            "value": "0.27",
+            "bfb": "0.42",
+            "logo": "https://drivers.mydrivers.com/images/company/20210414/201515235.png"
+        },
+        {
+            "index": "12",
+            "product": "Internet Explorer浏览器",
+            "value": "0.18",
+            "bfb": "0.28",
+            "logo": "https://drivers.mydrivers.com/images/company/20230308/173018275.jpg"
+        },
+        {
+            "index": "13",
+            "product": "Whale浏览器",
+            "value": "0.1",
+            "bfb": "0.16",
+            "logo": "https://drivers.mydrivers.com/images/company/20210414/201951601.png"
+        },
+        {
+            "index": "14",
+            "product": "旧版Edge浏览器",
+            "value": "0.04",
+            "bfb": "0.06",
+            "logo": "https://drivers.mydrivers.com/images/company/20230308/173018275.jpg"
+        }
+    ],
+    "updateTime": "2023-08-07",
+    "infoNote": "提供浏览器市场占有率数据供用户参考。|||每月更新一次。|||数据来自Statcounter网页流量分析。"
+}

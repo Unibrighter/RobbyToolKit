@@ -1,0 +1,812 @@
+{
+    "category": "电脑",
+    "rankingList": [
+        {
+            "index": "1",
+            "product": "NVIDIA GeForce RTX 4090显卡",
+            "value": "3012",
+            "bfb": "100",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "2",
+            "product": "AMD Radeon RX 7900 XTX显卡",
+            "value": "2597",
+            "bfb": "86.22",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "3",
+            "product": "AMD Radeon RX 7900 XT显卡",
+            "value": "2311",
+            "bfb": "76.73",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "4",
+            "product": "NVIDIA GeForce RTX 3090 Ti显卡",
+            "value": "2179",
+            "bfb": "72.34",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "5",
+            "product": "NVIDIA GeForce RTX 4080 16GB显卡",
+            "value": "2152",
+            "bfb": "71.45",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "6",
+            "product": "NVIDIA GeForce RTX 4070 Ti显卡",
+            "value": "2112",
+            "bfb": "70.12",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "7",
+            "product": "AMD Radeon RX 6950 XT显卡",
+            "value": "1908",
+            "bfb": "63.35",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "8",
+            "product": "七彩虹iGame RTX 3090 Vulcan OC",
+            "value": "1895",
+            "bfb": "62.92",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/111323787.jpg"
+        },
+        {
+            "index": "9",
+            "product": "影驰RTX 3090 HOF Extreme",
+            "value": "1887",
+            "bfb": "62.65",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/115006481.png"
+        },
+        {
+            "index": "10",
+            "product": "影驰RTX 3080 Ti HOF Extreme",
+            "value": "1865",
+            "bfb": "61.92",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/115006481.png"
+        },
+        {
+            "index": "11",
+            "product": "华硕TUF RTX 3090 GAMING",
+            "value": "1826",
+            "bfb": "60.62",
+            "logo": "https://drivers.mydrivers.com/images/company/20200411/191736574.png"
+        },
+        {
+            "index": "12",
+            "product": "影驰RTX 3090金属大师",
+            "value": "1799",
+            "bfb": "59.73",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/115006481.png"
+        },
+        {
+            "index": "13",
+            "product": "NVIDIA GeForce RTX 3090显卡",
+            "value": "1794",
+            "bfb": "59.56",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "14",
+            "product": "AMD Radeon RX 6900 XT显卡",
+            "value": "1780",
+            "bfb": "59.1",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "15",
+            "product": "NVIDIA GeForce RTX 3080 Ti显卡",
+            "value": "1760",
+            "bfb": "58.43",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "16",
+            "product": "NVIDIA GeForce RTX 3080 12GB显卡",
+            "value": "1685",
+            "bfb": "55.94",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "17",
+            "product": "七彩虹iGame RTX 3080 Ultra 10G",
+            "value": "1635",
+            "bfb": "54.28",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/111323787.jpg"
+        },
+        {
+            "index": "18",
+            "product": "索泰RTX 3080 X-GAMING OC",
+            "value": "1629",
+            "bfb": "54.08",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/162036903.jpg"
+        },
+        {
+            "index": "19",
+            "product": "NVIDIA GeForce RTX 4070显卡",
+            "value": "1625",
+            "bfb": "53.95",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "20",
+            "product": "AMD Radeon RX 6800 XT显卡",
+            "value": "1621",
+            "bfb": "53.82",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "21",
+            "product": "NVIDIA GeForce RTX 3080显卡",
+            "value": "1610",
+            "bfb": "53.45",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "22",
+            "product": "AMD Radeon RX 6800显卡",
+            "value": "1371",
+            "bfb": "45.52",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "23",
+            "product": "NVIDIA GeForce RTX 3070 Ti显卡",
+            "value": "1295",
+            "bfb": "42.99",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "24",
+            "product": "七彩虹iGame RTX2080Ti Vulcan X OC(一键超频)",
+            "value": "1261",
+            "bfb": "41.87",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/111323787.jpg"
+        },
+        {
+            "index": "25",
+            "product": "华硕ROG STRIX RTX 3070",
+            "value": "1251",
+            "bfb": "41.53",
+            "logo": "https://drivers.mydrivers.com/images/company/20200411/191736574.png"
+        },
+        {
+            "index": "26",
+            "product": "七彩虹iGame RTX 3070 Advanced OC",
+            "value": "1241",
+            "bfb": "41.2",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/111323787.jpg"
+        },
+        {
+            "index": "27",
+            "product": "影驰RTX 2080 Ti HOF十周年纪念版",
+            "value": "1236",
+            "bfb": "41.04",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/115006481.png"
+        },
+        {
+            "index": "28",
+            "product": "华硕ROG Strix GeForce RTX 2080 Ti",
+            "value": "1235",
+            "bfb": "41",
+            "logo": "https://drivers.mydrivers.com/images/company/20200411/191736574.png"
+        },
+        {
+            "index": "29",
+            "product": "影驰RTX 3070星曜OC",
+            "value": "1227",
+            "bfb": "40.74",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/115006481.png"
+        },
+        {
+            "index": "30",
+            "product": "索泰RTX 2080 Ti玩家力量至尊PGF OC14",
+            "value": "1225",
+            "bfb": "40.67",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/162036903.jpg"
+        },
+        {
+            "index": "31",
+            "product": "影驰GeForce RTX 2080 Ti大将",
+            "value": "1209",
+            "bfb": "40.14",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/115006481.png"
+        },
+        {
+            "index": "32",
+            "product": "微星RTX 2080 Ti VENTUS",
+            "value": "1209",
+            "bfb": "40.14",
+            "logo": "https://drivers.mydrivers.com/images/company/20200415/163658503.png"
+        },
+        {
+            "index": "33",
+            "product": "NVIDIA GeForce RTX 2080 Ti显卡",
+            "value": "1207",
+            "bfb": "40.07",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "34",
+            "product": "AMD Radeon RX 6750 XT显卡",
+            "value": "1202",
+            "bfb": "39.91",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "35",
+            "product": "索泰RTX 3070 X-GAMING OC",
+            "value": "1201",
+            "bfb": "39.87",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/162036903.jpg"
+        },
+        {
+            "index": "36",
+            "product": "NVIDIA GeForce RTX 3070显卡",
+            "value": "1196",
+            "bfb": "39.71",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "37",
+            "product": "NVIDIA GeForce RTX 4060 Ti 8GB显卡",
+            "value": "1190",
+            "bfb": "39.51",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "38",
+            "product": "AMD Radeon RX 6700 XT显卡",
+            "value": "1149",
+            "bfb": "38.15",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "39",
+            "product": "NVIDIA GeForce RTX 3060 Ti显卡",
+            "value": "1079",
+            "bfb": "35.82",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "40",
+            "product": "索泰RTX 2080 Super玩家力量至尊PGF OC",
+            "value": "1074",
+            "bfb": "35.66",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/162036903.jpg"
+        },
+        {
+            "index": "41",
+            "product": "耕升G魂RTX 2080 Super OC",
+            "value": "1059",
+            "bfb": "35.16",
+            "logo": "https://drivers.mydrivers.com/images/company/20200417/195202394.png"
+        },
+        {
+            "index": "42",
+            "product": "影驰RTX 2080 Super大将",
+            "value": "1058",
+            "bfb": "35.13",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/115006481.png"
+        },
+        {
+            "index": "43",
+            "product": "耕升G魂RTX 2080极客版",
+            "value": "1058",
+            "bfb": "35.13",
+            "logo": "https://drivers.mydrivers.com/images/company/20200417/195202394.png"
+        },
+        {
+            "index": "44",
+            "product": "NVIDIA GeForce RTX 2080 SUPER显卡",
+            "value": "1058",
+            "bfb": "35.13",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "45",
+            "product": "索泰RTX 2080玩家力量至尊PGF OC12",
+            "value": "1044",
+            "bfb": "34.66",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/162036903.jpg"
+        },
+        {
+            "index": "46",
+            "product": "影驰RTX 2080 GAMER",
+            "value": "1012",
+            "bfb": "33.6",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/115006481.png"
+        },
+        {
+            "index": "47",
+            "product": "NVIDIA GeForce RTX 2080显卡",
+            "value": "1004",
+            "bfb": "33.33",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "48",
+            "product": "AMD Radeon RX 7600显卡",
+            "value": "992",
+            "bfb": "32.93",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "49",
+            "product": "NVIDIA GeForce RTX 4060显卡",
+            "value": "981",
+            "bfb": "32.57",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "50",
+            "product": "索泰RTX 2070 Super至尊Plus OC",
+            "value": "975",
+            "bfb": "32.37",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/162036903.jpg"
+        },
+        {
+            "index": "51",
+            "product": "七彩虹iGame RTX 2070 Super Vulcan X OC",
+            "value": "973",
+            "bfb": "32.3",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/111323787.jpg"
+        },
+        {
+            "index": "52",
+            "product": "影驰RTX 2070 Super Gamer OC",
+            "value": "969",
+            "bfb": "32.17",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/115006481.png"
+        },
+        {
+            "index": "53",
+            "product": "耕升RTX 2070 Super炫光OC",
+            "value": "957",
+            "bfb": "31.77",
+            "logo": "https://drivers.mydrivers.com/images/company/20200417/195202394.png"
+        },
+        {
+            "index": "54",
+            "product": "技嘉RTX 2070 Super GAMING OC 3X",
+            "value": "955",
+            "bfb": "31.71",
+            "logo": "https://drivers.mydrivers.com/images/company/20200417/195256894.png"
+        },
+        {
+            "index": "55",
+            "product": "映众RTX 2070 Super冰龙超级版",
+            "value": "947",
+            "bfb": "31.44",
+            "logo": "https://drivers.mydrivers.com/images/company/20200415/165431925.png"
+        },
+        {
+            "index": "56",
+            "product": "NVIDIA GeForce RTX 2070 SUPER显卡",
+            "value": "946",
+            "bfb": "31.41",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "57",
+            "product": "NVIDIA GTX 1080 Ti显卡",
+            "value": "943",
+            "bfb": "31.31",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "58",
+            "product": "AMD Radeon VII显卡",
+            "value": "940",
+            "bfb": "31.21",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "59",
+            "product": "AMD Radeon RX 6650 XT显卡",
+            "value": "930",
+            "bfb": "30.88",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "60",
+            "product": "AMD Radeon RX 6600 XT显卡",
+            "value": "913",
+            "bfb": "30.31",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "61",
+            "product": "AMD Radeon RX 5700 XT显卡",
+            "value": "906",
+            "bfb": "30.08",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "62",
+            "product": "Intel Arc A770显卡",
+            "value": "905",
+            "bfb": "30.05",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "63",
+            "product": "七彩虹RTX 3060 Advanced OC",
+            "value": "901",
+            "bfb": "29.91",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/111323787.jpg"
+        },
+        {
+            "index": "64",
+            "product": "NVIDIA GeForce RTX 3060显卡",
+            "value": "890",
+            "bfb": "29.55",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "65",
+            "product": "影驰RTX 2060 Super HOF Classic",
+            "value": "860",
+            "bfb": "28.55",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/115006481.png"
+        },
+        {
+            "index": "66",
+            "product": "索泰RTX 2060 Super X-GAMING OC",
+            "value": "859",
+            "bfb": "28.52",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/162036903.jpg"
+        },
+        {
+            "index": "67",
+            "product": "NVIDIA GeForce RTX 2070显卡",
+            "value": "849",
+            "bfb": "28.19",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "68",
+            "product": "Intel Arc A750显卡",
+            "value": "842",
+            "bfb": "27.95",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "69",
+            "product": "微星RTX 2060 Super GAMING X",
+            "value": "840",
+            "bfb": "27.89",
+            "logo": "https://drivers.mydrivers.com/images/company/20200415/163658503.png"
+        },
+        {
+            "index": "70",
+            "product": "NVIDIA GeForce RTX 2060 SUPER显卡",
+            "value": "832",
+            "bfb": "27.62",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "71",
+            "product": "AMD Radeon RX 5700显卡",
+            "value": "796",
+            "bfb": "26.43",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "72",
+            "product": "AMD Radeon RX Vega 64显卡",
+            "value": "790",
+            "bfb": "26.23",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "73",
+            "product": "AMD Radeon RX 6600显卡",
+            "value": "762",
+            "bfb": "25.3",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "74",
+            "product": "NVIDIA GeForce GTX 1080显卡",
+            "value": "753",
+            "bfb": "25",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "75",
+            "product": "AMD Radeon RX 5600 XT显卡",
+            "value": "751",
+            "bfb": "24.93",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "76",
+            "product": "华硕ROG STRIX RX 5600 XT O6G GAMING",
+            "value": "741",
+            "bfb": "24.6",
+            "logo": "https://drivers.mydrivers.com/images/company/20200411/191736574.png"
+        },
+        {
+            "index": "77",
+            "product": "NVIDIA GeForce RTX 2060显卡",
+            "value": "731",
+            "bfb": "24.27",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "78",
+            "product": "映众GTX 1660 Ti冰龙超级版",
+            "value": "679",
+            "bfb": "22.54",
+            "logo": "https://drivers.mydrivers.com/images/company/20200415/165431925.png"
+        },
+        {
+            "index": "79",
+            "product": "七彩虹iGame GTX 1660 Ti Ultra",
+            "value": "653",
+            "bfb": "21.68",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/111323787.jpg"
+        },
+        {
+            "index": "80",
+            "product": "七彩虹iGame GTX 1660 SUPER",
+            "value": "647",
+            "bfb": "21.48",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/111323787.jpg"
+        },
+        {
+            "index": "81",
+            "product": "华硕ROG STRIX GTX 1660 Ti",
+            "value": "633",
+            "bfb": "21.02",
+            "logo": "https://drivers.mydrivers.com/images/company/20200411/191736574.png"
+        },
+        {
+            "index": "82",
+            "product": "索泰GTX 1660 Super X-GAMING OC",
+            "value": "630",
+            "bfb": "20.92",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/162036903.jpg"
+        },
+        {
+            "index": "83",
+            "product": "索泰GTX 1660 Ti X-GAMING OC",
+            "value": "630",
+            "bfb": "20.92",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/162036903.jpg"
+        },
+        {
+            "index": "84",
+            "product": "影驰GTX 1660 Ti大将",
+            "value": "628",
+            "bfb": "20.85",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/115006481.png"
+        },
+        {
+            "index": "85",
+            "product": "NVIDIA GeForce RTX 3050显卡",
+            "value": "628",
+            "bfb": "20.85",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "86",
+            "product": "耕升GTX 1660 Ti炫光版",
+            "value": "628",
+            "bfb": "20.85",
+            "logo": "https://drivers.mydrivers.com/images/company/20200417/195202394.png"
+        },
+        {
+            "index": "87",
+            "product": "影驰GTX 1660 SUPER骁将",
+            "value": "627",
+            "bfb": "20.82",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/115006481.png"
+        },
+        {
+            "index": "88",
+            "product": "影驰GTX 1660 Ti骁将",
+            "value": "619",
+            "bfb": "20.55",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/115006481.png"
+        },
+        {
+            "index": "89",
+            "product": "耕升GTX 1660 Ti追风版",
+            "value": "618",
+            "bfb": "20.52",
+            "logo": "https://drivers.mydrivers.com/images/company/20200417/195202394.png"
+        },
+        {
+            "index": "90",
+            "product": "映众GTX 1660 Ti黑金至尊",
+            "value": "617",
+            "bfb": "20.48",
+            "logo": "https://drivers.mydrivers.com/images/company/20200415/165431925.png"
+        },
+        {
+            "index": "91",
+            "product": "铭瑄GTX 1660 Ti终结者",
+            "value": "617",
+            "bfb": "20.48",
+            "logo": "https://drivers.mydrivers.com/images/company/20200415/163451488.png"
+        },
+        {
+            "index": "92",
+            "product": "NVIDIA GeForce GTX 1070显卡",
+            "value": "610",
+            "bfb": "20.25",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "93",
+            "product": "AMD Radeon RX Vega 56显卡",
+            "value": "600",
+            "bfb": "19.92",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "94",
+            "product": "技嘉GTX 1660 Ti OC",
+            "value": "594",
+            "bfb": "19.72",
+            "logo": "https://drivers.mydrivers.com/images/company/20200417/195256894.png"
+        },
+        {
+            "index": "95",
+            "product": "铭瑄GTX 1660终结者",
+            "value": "571",
+            "bfb": "18.96",
+            "logo": "https://drivers.mydrivers.com/images/company/20200415/163451488.png"
+        },
+        {
+            "index": "96",
+            "product": "影驰GTX 1660大将",
+            "value": "562",
+            "bfb": "18.66",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/115006481.png"
+        },
+        {
+            "index": "97",
+            "product": "NVIDIA GeForce GTX 1660显卡",
+            "value": "555",
+            "bfb": "18.43",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "98",
+            "product": "七彩虹iGame GTX 1660 Ultra",
+            "value": "541",
+            "bfb": "17.96",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/111323787.jpg"
+        },
+        {
+            "index": "99",
+            "product": "耕升GTX 1660追风版",
+            "value": "533",
+            "bfb": "17.7",
+            "logo": "https://drivers.mydrivers.com/images/company/20200417/195202394.png"
+        },
+        {
+            "index": "100",
+            "product": "蓝宝石Radeon RX 5500 XT白金版",
+            "value": "524",
+            "bfb": "17.4",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/162558311.jpg"
+        },
+        {
+            "index": "101",
+            "product": "技嘉GTX 1660 GAMING OC",
+            "value": "520",
+            "bfb": "17.26",
+            "logo": "https://drivers.mydrivers.com/images/company/20200417/195256894.png"
+        },
+        {
+            "index": "102",
+            "product": "七彩虹iGame GTX 1650 Super",
+            "value": "519",
+            "bfb": "17.23",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/111323787.jpg"
+        },
+        {
+            "index": "103",
+            "product": "AMD Radeon RX 6500 XT显卡",
+            "value": "518",
+            "bfb": "17.2",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "104",
+            "product": "影驰GTX 1650 Super骁将",
+            "value": "517",
+            "bfb": "17.16",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/115006481.png"
+        },
+        {
+            "index": "105",
+            "product": "NVIDIA GeForce GTX 1650 Super显卡",
+            "value": "513",
+            "bfb": "17.03",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "106",
+            "product": "微星GTX 1650 Super GAMING X",
+            "value": "510",
+            "bfb": "16.93",
+            "logo": "https://drivers.mydrivers.com/images/company/20200415/163658503.png"
+        },
+        {
+            "index": "107",
+            "product": "讯景Radeon RX 590 8G黑狼版",
+            "value": "497",
+            "bfb": "16.5",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/163617230.jpg"
+        },
+        {
+            "index": "108",
+            "product": "讯景Radeon RX 580 8G黑狼进化版",
+            "value": "488",
+            "bfb": "16.2",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/163617230.jpg"
+        },
+        {
+            "index": "109",
+            "product": "NVIDIA GeForce GTX 1060显卡",
+            "value": "450",
+            "bfb": "14.94",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "110",
+            "product": "AMD Radeon RX 580 2048SP显卡",
+            "value": "439",
+            "bfb": "14.58",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "111",
+            "product": "AMD Radeon RX 6400显卡",
+            "value": "432",
+            "bfb": "14.34",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192020756.jpg"
+        },
+        {
+            "index": "112",
+            "product": "Intel Arc A380显卡",
+            "value": "395",
+            "bfb": "13.11",
+            "logo": "https://drivers.mydrivers.com/images/company/20200410/162122336.png"
+        },
+        {
+            "index": "113",
+            "product": "NVIDIA GeForce GTX 1650显卡",
+            "value": "388",
+            "bfb": "12.88",
+            "logo": "https://drivers.mydrivers.com/images/company/20200421/192040459.jpg"
+        },
+        {
+            "index": "114",
+            "product": "技嘉GTX 1650 OC",
+            "value": "377",
+            "bfb": "12.52",
+            "logo": "https://drivers.mydrivers.com/images/company/20200417/195256894.png"
+        },
+        {
+            "index": "115",
+            "product": "索泰GeForce GTX 1650毁灭者",
+            "value": "370",
+            "bfb": "12.28",
+            "logo": "https://drivers.mydrivers.com/images/company/20220418/162036903.jpg"
+        }
+    ],
+    "updateTime": "2023-08-07",
+    "infoNote": "1、快科技桌面级显卡性能排行榜数据皆来自本站日常评测数据。|||2、测试项目尽量选择当前主流或者是经典的3A游戏，并测试1080P、2K、4K分辨率下的游戏帧率。|||3、榜单中每一款显卡都进行了严格的测试，并根据汇总的成绩最终得到性能评分。|||4、此榜单数据仅供有兴趣用户参考，不对产品优劣有主观评判，请用户自行确认产品的适用性。|||5、数据可能有不完善不严谨之处，欢迎留言留下宝贵建议，也可邮件反馈WenQ@kkj.cn"
+}

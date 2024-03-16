@@ -1,0 +1,1072 @@
+{
+    "code": 1,
+    "msg": "success",
+    "data": {
+        "option": [
+            {
+                "key": "companyid",
+                "boption": "品牌",
+                "bvalue": [
+                    {
+                        "specific": "全部",
+                        "compamyID": "0",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "华为",
+                        "compamyID": "1107",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "高通",
+                        "compamyID": "1925",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "三星",
+                        "compamyID": "829",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "联发科",
+                        "compamyID": "2254",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "苹果",
+                        "compamyID": "116",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "紫光展锐",
+                        "compamyID": "2287",
+                        "typeindex": "0"
+                    }
+                ]
+            },
+            {
+                "key": "ptime",
+                "boption": "发布时间",
+                "bvalue": [
+                    {
+                        "specific": "全部",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "2023",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "2022",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "2021",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "2020",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "2019",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "2018",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "2017",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "2016",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "2015",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "2014",
+                        "typeindex": "0"
+                    }
+                ]
+            },
+            {
+                "key": "option",
+                "boption": "选项",
+                "bvalue": [
+                    {
+                        "specific": "综合性能",
+                        "typeindex": "1"
+                    },
+                    {
+                        "specific": "GFXBench-霸王龙",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "GFXBench-曼哈顿",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "GFXBench-曼哈顿3.1",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "GFXBench-赛车追逐",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "GFXBench-阿兹特克废墟(Normal) Vulkan",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "GFXBench-阿兹特克废墟(Normal) OpenGL",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "GeekBench 4-单核心",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "GeekBench 4-多核心",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "GeekBench 5-单核心",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "GeekBench 5-多核心",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "GeekBench 6-单核心",
+                        "typeindex": "0"
+                    },
+                    {
+                        "specific": "GeekBench 6-多核心",
+                        "typeindex": "0"
+                    }
+                ]
+            }
+        ],
+        "value": [
+            {
+                "index": "1",
+                "product": "高通第二代骁龙8",
+                "value": "4439",
+                "bfb": "100",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "2",
+                "product": "联发科天玑9200+",
+                "value": "4233",
+                "bfb": "95.36",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "3",
+                "product": "苹果A16 Bionic",
+                "value": "4205",
+                "bfb": "94.73",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/191655762.png"
+            },
+            {
+                "index": "4",
+                "product": "苹果A15 Bionic(iPhone 13 Pro Max)",
+                "value": "4165",
+                "bfb": "93.83",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/191655762.png"
+            },
+            {
+                "index": "5",
+                "product": "苹果A15 Bionic(iPhone 13)",
+                "value": "3852",
+                "bfb": "86.78",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/191655762.png"
+            },
+            {
+                "index": "6",
+                "product": "高通骁龙8+",
+                "value": "3611",
+                "bfb": "81.35",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "7",
+                "product": "联发科天玑9200",
+                "value": "3599",
+                "bfb": "81.08",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "8",
+                "product": "高通骁龙8",
+                "value": "3466",
+                "bfb": "78.08",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "9",
+                "product": "联发科天玑9000+",
+                "value": "3422",
+                "bfb": "77.09",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "10",
+                "product": "联发科天玑9000",
+                "value": "3318",
+                "bfb": "74.75",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "11",
+                "product": "苹果A14 Bionic",
+                "value": "3164",
+                "bfb": "71.28",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/191655762.png"
+            },
+            {
+                "index": "12",
+                "product": "高通第二代骁龙7+",
+                "value": "2927",
+                "bfb": "65.94",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "13",
+                "product": "高通骁龙888 Plus",
+                "value": "2622",
+                "bfb": "59.07",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "14",
+                "product": "高通骁龙888",
+                "value": "2582",
+                "bfb": "58.17",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "15",
+                "product": "苹果A13 Bionic",
+                "value": "2530",
+                "bfb": "56.99",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/191655762.png"
+            },
+            {
+                "index": "16",
+                "product": "华为麒麟9000",
+                "value": "2514",
+                "bfb": "56.63",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "17",
+                "product": "三星Exynos 2200",
+                "value": "2470",
+                "bfb": "55.64",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/194524589.png"
+            },
+            {
+                "index": "18",
+                "product": "联发科天玑8100-MAX",
+                "value": "2428",
+                "bfb": "54.7",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "19",
+                "product": "联发科天玑8100",
+                "value": "2404",
+                "bfb": "54.16",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "20",
+                "product": "三星Exynos 2100",
+                "value": "2318",
+                "bfb": "52.22",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/194524589.png"
+            },
+            {
+                "index": "21",
+                "product": "高通骁龙870",
+                "value": "2127",
+                "bfb": "47.92",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "22",
+                "product": "高通骁龙865 Plus",
+                "value": "2102",
+                "bfb": "47.35",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "23",
+                "product": "三星Exynos 1080",
+                "value": "2048",
+                "bfb": "46.14",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/194524589.png"
+            },
+            {
+                "index": "24",
+                "product": "联发科天玑8000-MAX",
+                "value": "2028",
+                "bfb": "45.69",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "25",
+                "product": "联发科天玑1200",
+                "value": "1995",
+                "bfb": "44.94",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "26",
+                "product": "高通骁龙865",
+                "value": "1982",
+                "bfb": "44.65",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "27",
+                "product": "三星Exynos 990",
+                "value": "1888",
+                "bfb": "42.53",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/194524589.png"
+            },
+            {
+                "index": "28",
+                "product": "苹果A12 Bionic",
+                "value": "1813",
+                "bfb": "40.84",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/191655762.png"
+            },
+            {
+                "index": "29",
+                "product": "联发科天玑1100",
+                "value": "1792",
+                "bfb": "40.37",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "30",
+                "product": "高通骁龙855 Plus",
+                "value": "1763",
+                "bfb": "39.72",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "31",
+                "product": "联发科天玑1000+",
+                "value": "1758",
+                "bfb": "39.6",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "32",
+                "product": "华为麒麟990 5G",
+                "value": "1701",
+                "bfb": "38.32",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "33",
+                "product": "三星Exynos 9825",
+                "value": "1645",
+                "bfb": "37.06",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/194524589.png"
+            },
+            {
+                "index": "34",
+                "product": "高通骁龙780G",
+                "value": "1626",
+                "bfb": "36.63",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "35",
+                "product": "骁龙782G",
+                "value": "1613",
+                "bfb": "36.34",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "36",
+                "product": "华为麒麟990",
+                "value": "1592",
+                "bfb": "35.86",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "37",
+                "product": "高通骁龙855",
+                "value": "1584",
+                "bfb": "35.68",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "38",
+                "product": "三星Exynos 9820",
+                "value": "1562",
+                "bfb": "35.19",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/194524589.png"
+            },
+            {
+                "index": "39",
+                "product": "高通骁龙778G Plus",
+                "value": "1541",
+                "bfb": "34.72",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "40",
+                "product": "高通骁龙778G",
+                "value": "1483",
+                "bfb": "33.41",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "41",
+                "product": "联发科天玑1000L",
+                "value": "1397",
+                "bfb": "31.47",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "42",
+                "product": "高通一代骁龙7",
+                "value": "1341",
+                "bfb": "30.21",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "43",
+                "product": "高通骁龙845",
+                "value": "1298",
+                "bfb": "29.24",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "44",
+                "product": "苹果A11 Bionic",
+                "value": "1296",
+                "bfb": "29.2",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/191655762.png"
+            },
+            {
+                "index": "45",
+                "product": "联发科天玑820",
+                "value": "1268",
+                "bfb": "28.56",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "46",
+                "product": "联发科天玑1080",
+                "value": "1255",
+                "bfb": "28.27",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "47",
+                "product": "高通一代骁龙6",
+                "value": "1198",
+                "bfb": "26.99",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "48",
+                "product": "华为麒麟985",
+                "value": "1190",
+                "bfb": "26.81",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "49",
+                "product": "华为麒麟980",
+                "value": "1179",
+                "bfb": "26.56",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "50",
+                "product": "华为麒麟820",
+                "value": "1165",
+                "bfb": "26.24",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "51",
+                "product": "高通骁龙768G",
+                "value": "1149",
+                "bfb": "25.88",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "52",
+                "product": "三星Exynos 9810",
+                "value": "1115",
+                "bfb": "25.12",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/194524589.png"
+            },
+            {
+                "index": "53",
+                "product": "紫光展锐T820",
+                "value": "1073",
+                "bfb": "24.17",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143108784.png"
+            },
+            {
+                "index": "54",
+                "product": "高通骁龙695",
+                "value": "1021",
+                "bfb": "23",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "55",
+                "product": "紫光展锐T770",
+                "value": "1020",
+                "bfb": "22.98",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143108784.png"
+            },
+            {
+                "index": "56",
+                "product": "高通骁龙765G",
+                "value": "1000",
+                "bfb": "22.53",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "57",
+                "product": "高通骁龙750G",
+                "value": "986",
+                "bfb": "22.21",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "58",
+                "product": "联发科天玑800U",
+                "value": "957",
+                "bfb": "21.56",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "59",
+                "product": "华为麒麟810",
+                "value": "940",
+                "bfb": "21.18",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "60",
+                "product": "苹果A10 Fusion",
+                "value": "938",
+                "bfb": "21.13",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/191655762.png"
+            },
+            {
+                "index": "61",
+                "product": "紫光展锐T760",
+                "value": "924",
+                "bfb": "20.82",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143108784.png"
+            },
+            {
+                "index": "62",
+                "product": "高通骁龙835",
+                "value": "919",
+                "bfb": "20.7",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "63",
+                "product": "华为麒麟970",
+                "value": "910",
+                "bfb": "20.5",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "64",
+                "product": "三星Exynos 980",
+                "value": "874",
+                "bfb": "19.69",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/194524589.png"
+            },
+            {
+                "index": "65",
+                "product": "三星Exynos 8895",
+                "value": "858",
+                "bfb": "19.33",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/194524589.png"
+            },
+            {
+                "index": "66",
+                "product": "联发科Helio G90T",
+                "value": "835",
+                "bfb": "18.81",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "67",
+                "product": "高通骁龙480",
+                "value": "820",
+                "bfb": "18.47",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "68",
+                "product": "联发科天玑720",
+                "value": "805",
+                "bfb": "18.13",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "69",
+                "product": "高通骁龙730G",
+                "value": "766",
+                "bfb": "17.26",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "70",
+                "product": "高通骁龙730",
+                "value": "744",
+                "bfb": "16.76",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "71",
+                "product": "高通骁龙821",
+                "value": "722",
+                "bfb": "16.26",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "72",
+                "product": "苹果A9",
+                "value": "701",
+                "bfb": "15.79",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/191655762.png"
+            },
+            {
+                "index": "73",
+                "product": "华为麒麟960",
+                "value": "687",
+                "bfb": "15.48",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "74",
+                "product": "高通骁龙820",
+                "value": "669",
+                "bfb": "15.07",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "75",
+                "product": "高通骁龙712",
+                "value": "624",
+                "bfb": "14.06",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "76",
+                "product": "三星Exynos 8890",
+                "value": "616",
+                "bfb": "13.88",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/194524589.png"
+            },
+            {
+                "index": "77",
+                "product": "联发科Helio X30",
+                "value": "614",
+                "bfb": "13.83",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "78",
+                "product": "联发科Helio P90",
+                "value": "609",
+                "bfb": "13.72",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "79",
+                "product": "高通骁龙710",
+                "value": "598",
+                "bfb": "13.47",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "80",
+                "product": "高通骁龙670",
+                "value": "594",
+                "bfb": "13.38",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "81",
+                "product": "紫光展锐T618",
+                "value": "586",
+                "bfb": "13.2",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143108784.png"
+            },
+            {
+                "index": "82",
+                "product": "紫光展锐唐古拉T740(原虎贲T7510)",
+                "value": "561",
+                "bfb": "12.64",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143108784.png"
+            },
+            {
+                "index": "83",
+                "product": "联发科Helio P70",
+                "value": "518",
+                "bfb": "11.67",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "84",
+                "product": "联发科天玑800",
+                "value": "510",
+                "bfb": "11.49",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "85",
+                "product": "华为麒麟955",
+                "value": "506",
+                "bfb": "11.4",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "86",
+                "product": "高通骁龙662",
+                "value": "502",
+                "bfb": "11.31",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "87",
+                "product": "华为麒麟710",
+                "value": "498",
+                "bfb": "11.22",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "88",
+                "product": "紫光展锐T610",
+                "value": "496",
+                "bfb": "11.17",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143108784.png"
+            },
+            {
+                "index": "89",
+                "product": "华为麒麟950",
+                "value": "479",
+                "bfb": "10.79",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "90",
+                "product": "苹果A8",
+                "value": "418",
+                "bfb": "9.42",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/191655762.png"
+            },
+            {
+                "index": "91",
+                "product": "高通骁龙636",
+                "value": "406",
+                "bfb": "9.15",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "92",
+                "product": "高通骁龙652",
+                "value": "394",
+                "bfb": "8.88",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "93",
+                "product": "高通骁龙632",
+                "value": "371",
+                "bfb": "8.36",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "94",
+                "product": "联发科Helio G80",
+                "value": "344",
+                "bfb": "7.75",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "95",
+                "product": "联发科Helio X27",
+                "value": "331",
+                "bfb": "7.46",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "96",
+                "product": "联发科Helio X23",
+                "value": "330",
+                "bfb": "7.43",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "97",
+                "product": "紫光展锐T310",
+                "value": "329",
+                "bfb": "7.41",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143108784.png"
+            },
+            {
+                "index": "98",
+                "product": "高通骁龙630",
+                "value": "314",
+                "bfb": "7.07",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "99",
+                "product": "联发科Helio P23",
+                "value": "300",
+                "bfb": "6.76",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "100",
+                "product": "联发科Helio P60",
+                "value": "296",
+                "bfb": "6.67",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "101",
+                "product": "高通骁龙625",
+                "value": "295",
+                "bfb": "6.65",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "102",
+                "product": "联发科Helio P25",
+                "value": "291",
+                "bfb": "6.56",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "103",
+                "product": "华为麒麟659",
+                "value": "280",
+                "bfb": "6.31",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "104",
+                "product": "紫光展锐SC9863A",
+                "value": "261",
+                "bfb": "5.88",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143108784.png"
+            },
+            {
+                "index": "105",
+                "product": "华为麒麟658",
+                "value": "260",
+                "bfb": "5.86",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "106",
+                "product": "高通骁龙450",
+                "value": "254",
+                "bfb": "5.72",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "107",
+                "product": "华为麒麟650",
+                "value": "253",
+                "bfb": "5.7",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "108",
+                "product": "华为麒麟655",
+                "value": "250",
+                "bfb": "5.63",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "109",
+                "product": "联发科Helio P22",
+                "value": "244",
+                "bfb": "5.5",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "110",
+                "product": "高通骁龙660",
+                "value": "220",
+                "bfb": "4.96",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "111",
+                "product": "高通骁龙675",
+                "value": "215",
+                "bfb": "4.84",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "112",
+                "product": "高通骁龙435",
+                "value": "206",
+                "bfb": "4.64",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "113",
+                "product": "紫光展锐SC9832E",
+                "value": "196",
+                "bfb": "4.42",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143108784.png"
+            },
+            {
+                "index": "114",
+                "product": "高通骁龙439",
+                "value": "181",
+                "bfb": "4.08",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "115",
+                "product": "华为麒麟935",
+                "value": "174",
+                "bfb": "3.92",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "116",
+                "product": "华为麒麟930",
+                "value": "169",
+                "bfb": "3.81",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "117",
+                "product": "联发科Helio P35",
+                "value": "167",
+                "bfb": "3.76",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "118",
+                "product": "高通骁龙626",
+                "value": "164",
+                "bfb": "3.69",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "119",
+                "product": "高通骁龙653",
+                "value": "159",
+                "bfb": "3.58",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "120",
+                "product": "华为麒麟925",
+                "value": "148",
+                "bfb": "3.33",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "121",
+                "product": "紫光展锐T616",
+                "value": "135",
+                "bfb": "3.04",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143108784.png"
+            },
+            {
+                "index": "122",
+                "product": "高通骁龙650",
+                "value": "132",
+                "bfb": "2.97",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "123",
+                "product": "华为麒麟620",
+                "value": "121",
+                "bfb": "2.73",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "124",
+                "product": "联发科Helio P30",
+                "value": "110",
+                "bfb": "2.48",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143031753.png"
+            },
+            {
+                "index": "125",
+                "product": "紫光展锐T606",
+                "value": "109",
+                "bfb": "2.46",
+                "logo": "https://drivers.mydrivers.com/images/company/20200429/143108784.png"
+            },
+            {
+                "index": "126",
+                "product": "华为麒麟928",
+                "value": "84",
+                "bfb": "1.89",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "127",
+                "product": "华为麒麟920",
+                "value": "77",
+                "bfb": "1.73",
+                "logo": "https://drivers.mydrivers.com/images/company/20200411/193733604.png"
+            },
+            {
+                "index": "128",
+                "product": "高通骁龙616",
+                "value": "76",
+                "bfb": "1.71",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            },
+            {
+                "index": "129",
+                "product": "高通骁龙617",
+                "value": "70",
+                "bfb": "1.58",
+                "logo": "https://drivers.mydrivers.com/images/company/20200417/173058378.png"
+            }
+        ],
+        "urllist": [
+            {
+                "url": "https://rank.kkj.cn/apptt/ranknew.html?typeid=74"
+            }
+        ],
+        "explain": "1、本榜单基于GeekBench、GFXBench两个标准测试项目，汇总驱动之家评测室、GeekBench/GFXBench官方典型数据，计算每一款手机SoC的综合性能，进行高低排序。|||2、不同机型的SoC性能释放有差异，同一款SoC发布之后的性能也会随着时间不断优化释放提高，本榜单均取当前时间典型的较好成绩，不代表某款具体机型。|||3、基于相关数据的时效性，本榜单实时更新。",
+        "unit": "得分",
+        "surl": "网络",
+        "utime": "2023-07-14",
+        "strtime": ""
+    }
+}
