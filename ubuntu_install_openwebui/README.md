@@ -131,3 +131,11 @@ pinggy应该也可以,但没试过
 - `ngrok http 8080`
 
 然后根据ngrok控制台输出,就能够在任意地方访问这个instance上的ollama + open-webui了
+https://01cc-43-138-227-99.ngrok-free.app/c/6c8f6653-17d9-4e5d-ba60-47355e6c2716
+
+## 参考
+一些关于cloudstudio文章: https://cloud.tencent.com/developer/search/article-cloudstudio%20ollama
+CloudStudio之ComfyUI上使用Wan2.1输出高质量视频: https://cloud.tencent.com/developer/article/2504526
+HAI + Dify | 耗资1元构建DeepSeek门诊导诊助手: https://cloud.tencent.com/developer/article/2509127?policyId=1004
+腾讯云CloudStudio使用笔记(二): https://cloud.tencent.com/developer/article/2505614
+文档中心>Cloud Studio（云端 IDE）>常见问题: https://cloud.tencent.com/document/product/1039/116080
