@@ -1,0 +1,20 @@
+{
+  "name": "csv_to_moneymanager",
+  "version": "1.0.0",
+  "description": "CSV to Money Manager import tool",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "csv-loader": "bun csv-loader.ts",
+    "request-maker": "bun request-maker.ts",
+    "start": "bun main.ts",
+    "dev": "bun main.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}

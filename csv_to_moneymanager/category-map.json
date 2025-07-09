@@ -1,0 +1,104 @@
+{
+    "categories": [
+      {
+        "mbCategory": "Restaurants & takeaway",
+        "mcid": "C04A4312-2F80-4566-AF53-875A0DE9C232"
+      },
+      {
+        "mbCategory": "Groceries",
+        "mcid": "43BD793D-C508-4C4A-BDC1-A31594ABC96C"
+      },
+      {
+        "mbCategory": "Medical",
+        "mcid": "ABCFB6B8-42C0-4ED7-B12B-E8361AB2C08E"
+      },
+      {
+        "mbCategory": "Public transport",
+        "mcid": "1B567814-F7DB-4EDA-964B-D105B0FE4EE1"
+      },
+      {
+        "mbCategory": "Phone & internet",
+        "mcid": "43557599-2709-48FD-BCEC-8D8534050519"
+      },
+      {
+        "mbCategory": "Fuel",
+        "mcid": "DEB19C27-86B0-4E89-A63D-DA41612C4012"
+      },
+      {
+        "mbCategory": "Other shopping",
+        "mcid": "3452831F-F7EB-4EE2-9763-687E608ED8D1"
+      },
+      {
+        "mbCategory": "Electronics & technology",
+        "mcid": "E5B98255-426B-42FE-8349-9F26CBBB6348"
+      },
+      {
+        "mbCategory": "Insurance",
+        "mcid": "2C8E47AE-9846-4FE3-9369-A8D0C03E4F0A"
+      },
+      {
+        "mbCategory": "Internal transfers",
+        "mcid": "3798B309-1FD6-4D1C-9DC9-46D952F242AD"
+      },
+      {
+        "mbCategory": "Services",
+        "mcid": "D4B10F92-6B40-4DEB-9124-C00F0DD7DB4C"
+      },
+      {
+        "mbCategory": "Government",
+        "mcid": "B27AF0AD-C670-43C7-9A9B-32B16A8DFBA9"
+      },
+      {
+        "mbCategory": "Utilities",
+        "mcid": "D134D7F0-2E6C-453C-B043-4B9B58B3B14E"
+      },
+      {
+        "mbCategory": "Clothing & accessories",
+        "mcid": "2CB57CF7-42C9-4DE8-80AF-7291062FCACA"
+      },
+      {
+        "mbCategory": "Attractions & events",
+        "mcid": "7548ED60-0C18-4953-83CC-2D2A4C24AFD3"
+      },
+      {
+        "mbCategory": "Alcohol",
+        "mcid": "556EC567-45A2-4CC9-8663-90C52B16776A"
+      },
+      {
+        "mbCategory": "Taxis & ride shares",
+        "mcid": "E22C10F8-8D60-4441-8255-FDF7F42CF209"
+      },
+      {
+        "mbCategory": "Parking & tolls",
+        "mcid": "606A71E2-1121-4527-9AF0-38641116680C"
+      },
+      {
+        "mbCategory": "Gambling",
+        "mcid": "257E5328-D120-4749-8F2D-A9EBB1CA1DF2"
+      },
+      {
+        "mbCategory": "Refund",
+        "mcid": "91C524B1-1D5F-4F47-97EC-01D593E17190"
+      },
+      {
+        "mbCategory": "Café & coffee",
+        "mcid": "05441679-0EC3-4522-9B89-CA39B0E8C38F"
+      },
+      {
+        "mbCategory": "Gym & fitness",
+        "mcid": "5A0BDAEB-EC30-4FEC-BEB5-D8A6DE3EAF8B"
+      },
+      {
+        "mbCategory": "Flights",
+        "mcid": "E5CC0016-A246-4AFC-8716-0AEC1386640D"
+      },
+      {
+        "mbCategory": "Travel expenses",
+        "mcid": "5B83A328-6389-4517-90BF-843811E0F935"
+      },
+      {
+        "mbCategory": "Uncategorised",
+        "mcid": "B2D7DE8F-39C7-4CF6-A1AB-43785E3AB0F0"
+      }
+    ]
+  }

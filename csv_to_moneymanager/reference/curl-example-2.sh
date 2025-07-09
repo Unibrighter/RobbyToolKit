@@ -1,0 +1,13 @@
+curl 'http://10.141.198.56:8888/moneyBook/create' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'mbDate=2025-07-09T00:00:00&mbCash=99.99&inOutType=Expense&inOutCode=1&payType=Credit%20Cards&mbCategory=%E5%85%AC%E5%85%B1%20%7C%20%E7%BD%9A%E5%8D%95&subCategory=&mbContent=test%20event%20transaction&mbDetailContent=test%20details%20&assetId=3&mcid=CE80D16F-3CDA-43DE-9EEE-85826767DBAB&mcscid=' \
+  --insecure

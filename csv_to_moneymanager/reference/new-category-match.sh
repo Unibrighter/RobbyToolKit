@@ -1,0 +1,325 @@
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=C04A4312-2F80-4566-AF53-875A0DE9C232&mbCategory=Restaurants%20%26%20takeaway&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=43BD793D-C508-4C4A-BDC1-A31594ABC96C&mbCategory=Groceries&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=ABCFB6B8-42C0-4ED7-B12B-E8361AB2C08E&mbCategory=Medical&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=1B567814-F7DB-4EDA-964B-D105B0FE4EE1&mbCategory=Public%20transport&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=43557599-2709-48FD-BCEC-8D8534050519&mbCategory=Phone%20%26%20internet&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=DEB19C27-86B0-4E89-A63D-DA41612C4012&mbCategory=Fuel&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=3452831F-F7EB-4EE2-9763-687E608ED8D1&mbCategory=Other%20shopping&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=E5B98255-426B-42FE-8349-9F26CBBB6348&mbCategory=Electronics%20%26%20technology&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=2C8E47AE-9846-4FE3-9369-A8D0C03E4F0A&mbCategory=Insurance&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=3798B309-1FD6-4D1C-9DC9-46D952F242AD&mbCategory=Internal%20transfers&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=D4B10F92-6B40-4DEB-9124-C00F0DD7DB4C&mbCategory=Services&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=B27AF0AD-C670-43C7-9A9B-32B16A8DFBA9&mbCategory=Government&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=D134D7F0-2E6C-453C-B043-4B9B58B3B14E&mbCategory=Utilities&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=2CB57CF7-42C9-4DE8-80AF-7291062FCACA&mbCategory=Clothing%20%26%20accessories&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=7548ED60-0C18-4953-83CC-2D2A4C24AFD3&mbCategory=Attractions%20%26%20events&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=556EC567-45A2-4CC9-8663-90C52B16776A&mbCategory=Alcohol&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=E22C10F8-8D60-4441-8255-FDF7F42CF209&mbCategory=Taxis%20%26%20ride%20shares&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=606A71E2-1121-4527-9AF0-38641116680C&mbCategory=Parking%20%26%20tolls&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=257E5328-D120-4749-8F2D-A9EBB1CA1DF2&mbCategory=Gambling&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=91C524B1-1D5F-4F47-97EC-01D593E17190&mbCategory=Refund&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=05441679-0EC3-4522-9B89-CA39B0E8C38F&mbCategory=Caf%C3%A9%20%26%20coffee&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=5A0BDAEB-EC30-4FEC-BEB5-D8A6DE3EAF8B&mbCategory=Gym%20%26%20fitness&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=E5CC0016-A246-4AFC-8716-0AEC1386640D&mbCategory=Flights&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=5B83A328-6389-4517-90BF-843811E0F935&mbCategory=Travel%20expenses&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure ;
+curl 'http://10.141.198.56:8888/moneyBook/update' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'Origin: http://10.141.198.56:8888' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://10.141.198.56:8888/index.html' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  --data-raw 'id=3685B71A-EB74-48F7-AA05-34C7FA0E56EE&mbDate=2025-07-09T00:00:00&assetId=3&toAssetId=&targetAssetId=&payType=Credit%20Cards&mcid=B2D7DE8F-39C7-4CF6-A1AB-43785E3AB0F0&mbCategory=Uncategorised&mcscid=&subCategory=&mbContent=Myki&mbCash=72.62&inOutCode=1&inOutType=Exp.&mbDetailContent=Random%2Btransaction%2Bat%2BMyki' \
+  --insecure
